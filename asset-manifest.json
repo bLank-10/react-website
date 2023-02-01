@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-website/static/js/main.79224eec.js",
+    "static/js/787.02d56b45.chunk.js": "/react-website/static/js/787.02d56b45.chunk.js",
+    "index.html": "/react-website/index.html",
+    "main.79224eec.js.map": "/react-website/static/js/main.79224eec.js.map",
+    "787.02d56b45.chunk.js.map": "/react-website/static/js/787.02d56b45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.79224eec.js"
+  ]
+}
