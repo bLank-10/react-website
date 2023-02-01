@@ -3,7 +3,7 @@
 ### RUNNING LOCALLY
 
 1. Clone the repo
-2. Run the command ### `npm install` followed by ### `npm start`
+2. Run the command `npm install` followed by `npm start`
 3. Enjoy :)
 
 ## Learn More
