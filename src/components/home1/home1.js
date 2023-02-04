@@ -1,17 +1,29 @@
 import {
   StyledSection,
-  StyledContentContainer,
-  StyledHeading,
-  StyledParagraph,
 } from "./stylehome1";
+import SimpleImageSlider from "react-simple-image-slider";
+
+
+const images = [
+  { url: "https://picsum.photos/200/300.jpg" },
+  { url: "https://picsum.photos/200/301.jpg" },
+  { url: "https://picsum.photos/200/302.jpg" },
+  { url: "https://picsum.photos/200/303.jpg" },
+  { url: "https://picsum.photos/200/304.jpg" },
+  { url: "https://picsum.photos/200/305.jpg" },
+  { url: "https://picsum.photos/200/306.jpg" },
+];
 
 
 const Home1 = () => (
   <StyledSection>
-    <StyledContentContainer>
-      <StyledHeading>section1</StyledHeading>
-      <StyledParagraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porta, diam quis semper tincidunt, ante ante pellentesque lectus, vitae mollis tellus massa non risus. Nullam non eros auctor, viverra erat eget, condimentum nibh.</StyledParagraph>
-    </StyledContentContainer>
+      <SimpleImageSlider
+        width={1200}
+        height={504}
+        images={images}
+        showBullets={true}
+        showNavs={true}
+      />
   </StyledSection>
 );
 

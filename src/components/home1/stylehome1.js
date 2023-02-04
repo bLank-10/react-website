@@ -13,21 +13,12 @@ export const StyledSection = styled.section`
   }
 `;
 
-export const StyledContentContainer = styled.div`
+export const SimpleImageSlider = styled.div`
   text-align: center;
+  position: center
   
   @media (min-width: 48em) {
     grid-column: 1 / 8;
     text-align: start;
   }
 `;
-
-export const StyledHeading = styled.h1`
-  font-size: 2rem;
-
-  @media (min-width: 48em) {
-    font-size: 3rem;
-  }
-`;
-
-export const StyledParagraph = styled.p``;

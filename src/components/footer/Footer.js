@@ -21,19 +21,22 @@ const Footer = () => {
         <StyledFooterRow>
           <StyledFooterRow linkContainer>
             <StyledFooterColumn>
-              <HeaderFooterP smallHeader>map</HeaderFooterP>
+            <HeaderFooterP smallHeader>About</HeaderFooterP>
+            <FooterA href="#">News and press</FooterA>
+            <FooterA href="#">Personal data and collection</FooterA>
+            <FooterA href="#">FAQ</FooterA>
             </StyledFooterColumn>
             <StyledFooterColumn>
+
               <HeaderFooterP smallHeader>Information</HeaderFooterP>
               <FooterA href="#">How it works</FooterA>
               <FooterA href="#">Download app</FooterA>
               <FooterA href="#">Developer portal</FooterA>
             </StyledFooterColumn>
             <StyledFooterColumn>
-              <HeaderFooterP smallHeader>About</HeaderFooterP>
-              <FooterA href="#">News and press</FooterA>
-              <FooterA href="#">Personal data and collection</FooterA>
-              <FooterA href="#">FAQ</FooterA>
+              
+              <HeaderFooterP smallHeader>map</HeaderFooterP>
+              
             </StyledFooterColumn>
           </StyledFooterRow>
         </StyledFooterRow>
