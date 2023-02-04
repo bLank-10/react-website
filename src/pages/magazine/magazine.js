@@ -21,19 +21,6 @@ const Magazine = () => {
           nisl. Sed rutrum augue nisi, imperdiet sollicitudin nulla eleifend eu.
           Proin suscipit rutrum tempor. Maecenas id rutrum tellus.
         </magazineP>
-        <magazineP>
-          Ut in aliquam nulla. Aliquam porta, arcu ut pretium commodo, nisi
-          augue porttitor velit, in pharetra nibh ante eget erat. Aenean dictum
-          sem erat, a finibus felis sodales ut. Praesent id erat sit amet ipsum
-          porttitor vehicula. Duis et mi lacinia, hendrerit nunc quis,
-          ullamcorper justo. Morbi vitae odio varius, fringilla eros non,
-          dignissim nibh. Donec vitae blandit justo. Vivamus tristique lorem sed
-          sodales facilisis. Cras volutpat nisi in felis scelerisque, vitae
-          varius lectus tincidunt. Praesent luctus ultrices justo, ut aliquet
-          metus accumsan non. Fusce tincidunt lorem mattis diam accumsan
-          ullamcorper. Sed mollis, tellus id sollicitudin eleifend, elit dolor
-          sollicitudin justo, at tincidunt orci ipsum eu ipsum.
-        </magazineP>
       </article>
     </magazineSection>
   );
