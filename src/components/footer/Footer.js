@@ -8,43 +8,76 @@ import {
   StyledFooterSection,
 } from "./StyleFooter";
 
+import Iframe from 'react-iframe'
+
 const Footer = () => {
   return (
     <StyledFooterSection>
       <StyledFooterColumn>
-        <HeaderFooterP>IEEE</HeaderFooterP>
+        <HeaderFooterP>IEEE FCRIT</HeaderFooterP>
         <FooterP>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Become a member <br></br><br></br>
+        Get notified with the latest updates in the technical world, articles, seminars and workshops.
         </FooterP>
-      </StyledFooterColumn>
+        </StyledFooterColumn>
+        <StyledFooterRow margin>
+        <StyledFooterColumn>
+              <HeaderFooterP smallHeader >Quick links</HeaderFooterP>
+              <FooterA href="#">Home</FooterA>
+              <FooterA href="#">Membership</FooterA>
+              <FooterA href="#">Magazine</FooterA>
+              <FooterA href="#">Events</FooterA>
+              <FooterA href="#">Contact Us</FooterA>
+            </StyledFooterColumn>
+        <StyledFooterColumn>
+              <HeaderFooterP smallHeader >Connect us on</HeaderFooterP>
+              <FooterA href="#">Linkedin</FooterA>
+              <FooterA href="#">Instagram</FooterA>
+              <FooterA href="#">Email</FooterA>
+              <FooterA href="#">Youtube</FooterA>
+            </StyledFooterColumn>
+            <StyledFooterColumn>
+              <HeaderFooterP smallHeader >Extra Links</HeaderFooterP>
+              <FooterA href="#">Ask Questions</FooterA>
+              <FooterA href="#">About us</FooterA>
+              <FooterA href="#">Privacy Policy</FooterA>
+              <FooterA href="#">Terms of use</FooterA>
+            </StyledFooterColumn>
+            <StyledFooterColumn>
+              <HeaderFooterP smallHeader >Extra Column</HeaderFooterP>
+              <FooterA href="#">P1</FooterA>
+              <FooterA href="#">P2</FooterA>
+              <FooterA href="#">P3</FooterA>
+              <FooterA href="#">P4</FooterA>
+            </StyledFooterColumn>
+
+            </StyledFooterRow>
+     
       <StyledFooterRow margin>
         <StyledFooterRow>
           <StyledFooterRow linkContainer>
             <StyledFooterColumn>
-            <HeaderFooterP smallHeader>About</HeaderFooterP>
-            <FooterA href="#">News and press</FooterA>
-            <FooterA href="#">Personal data and collection</FooterA>
-            <FooterA href="#">FAQ</FooterA>
+              <HeaderFooterP smallHeader><Iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.732104374876!2d72.98951024915728!3d19.075512687024826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c6cae0d8c5ab%3A0xbbf4481d662ca2d8!2sFr.%20Conceicao%20Rodrigues%20Institute%20of%20Technology!5e0!3m2!1sen!2sin!4v1675516563701!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"/></HeaderFooterP>
             </StyledFooterColumn>
             <StyledFooterColumn>
-
-              <HeaderFooterP smallHeader>Information</HeaderFooterP>
-              <FooterA href="#">How it works</FooterA>
-              <FooterA href="#">Download app</FooterA>
-              <FooterA href="#">Developer portal</FooterA>
+              <HeaderFooterP smallHeader>Fr. C. Rodrigues Institute of Technology, Vashi</HeaderFooterP>
+              <FooterA href="#">Agnel Technical Education Complex,Sector 9-A, Vashi, Navi Mumbai,</FooterA>
+              <FooterA href="#">Maharashtra, India PIN - 400703</FooterA>
+              <FooterA href="#">Contact No:  (022) 27771000 , 27662949, 27660619 </FooterA>
             </StyledFooterColumn>
-            <StyledFooterColumn>
-              
-              <HeaderFooterP smallHeader>map</HeaderFooterP>
-              
-            </StyledFooterColumn>
+           {/* <StyledFooterColumn>
+              <HeaderFooterP smallHeader>About</HeaderFooterP>
+              <FooterA href="#">News and press</FooterA>
+              <FooterA href="#">Personal data and collection</FooterA>
+              <FooterA href="#">FAQ</FooterA>
+            </StyledFooterColumn>*/}
           </StyledFooterRow>
         </StyledFooterRow>
       </StyledFooterRow>
       <Border />
       <StyledFooterRow bottomContainer>
         <FooterP bottom>
-          Copyright 2022 IEEE, All rights reserved.
+          Copyright 2023 IEEE FCRIT, All rights reserved.
         </FooterP>
         <StyledFooterRow bottomDiv>
           <FooterP bottom>Terms of Service</FooterP>
