@@ -12,13 +12,13 @@ export const StyledFooterSection = styled.section`
   flex-direction: column;
   bottom: 0;
   background-color: #141823;
-  padding-top: 5.9375em;
+  padding-top: 1.9375em;
 `;
 
 export const StyledFooterRow = styled.div`
   display: flex;
   justify-content: space-between;
-  gap: 8.3125em;
+  gap: 6.3125em;
   @media (max-width: 811px) {
     gap: 1.5625em;
     flex-direction: column;
@@ -26,7 +26,7 @@ export const StyledFooterRow = styled.div`
   ${(props) => {
     if (props.margin)
       return `
-    margin: 7.3125em 0;
+    margin: 3.3125em 0;
     `;
   }}
   ${(props) => {
