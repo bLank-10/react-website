@@ -4,6 +4,7 @@ const BurgerStyle = styled.div`
   width: 2rem;
   height: 2rem;
   margin-top: 1vh;
+  // background-color: #0f131fc4;
   display: flex;
   justify-content: space-around;
   flex-flow: column nowrap;
@@ -19,5 +20,8 @@ const BurgerStyle = styled.div`
     transition: all 0.3s linear;
   }
 `;
+
+
+
 
 export { BurgerStyle };

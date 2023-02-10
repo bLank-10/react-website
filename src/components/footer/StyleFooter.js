@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 export const StyledFooterColumn = styled.div`
   display: flex;
@@ -84,12 +84,17 @@ export const FooterP = styled.p`
   }}
 `;
 
-export const FooterLink = styled(Link)`
-  color: #cccccc;
-  text-decoration: none;
-`;
+// export const FooterLink = styled(Link)`
+//   color: #cccccc;
+//   text-decoration: none;
+// `;
 
-export const FooterA = styled.a`
-  color: #cccccc;
-  text-decoration: none;
+// export const FooterA = styled.a`
+//   color: #cccccc;
+//   text-decoration: none;
+// `;
+
+export const Map = styled.div`
+  height: 888;
+  width: 100%;
 `;

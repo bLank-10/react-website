@@ -45,7 +45,7 @@ const Navbar = () => {
           @media (max-width: 550px) {
             .navbar-wrapper > div > a {
               display: ${burgerOpen ? "inline" : "none"};
-              // color: red;
+              background-color: black;
             }
           }
         `}

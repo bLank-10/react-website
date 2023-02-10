@@ -3,6 +3,8 @@ import styled from "styled-components";
 const NavbarStyle = styled.div`
   display: flex;
   // justify-content: flex-end;
+  // text-align: horizontal;
+  // background-color: #0f131fc4;
 
   > a {
     margin-top: 1.3vh;
@@ -17,12 +19,12 @@ const NavbarStyle = styled.div`
   }
 
   > a:active {
-    color: blue;
+    color: red;
   }
 
-  > a:first-child {
-    text-decoration: underline;
-  }
+  // > a:first-child {
+  //   text-decoration: underline;
+  // }
 `;
 
 const MobileView = styled.div`

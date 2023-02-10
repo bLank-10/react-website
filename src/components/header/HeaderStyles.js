@@ -3,16 +3,27 @@ import styled from "styled-components";
 const HeaderStyle = styled.div`
   display: flex;
   justify-content: space-between;
-  //   align-items: flex-end;
   padding-block: 1em;
-  background-color: #0f131fc4;
+  
+  // margin: left;
+  // align-content: center;
+  // margin-right: end;
+  background-color: blue;
+  
+  .container {
+    position: left;
+    margin: left;
+    width: auto;
+  }
 
   @media (max-width: 550px) {
-    height: 25vh;
+    // height: 28vh;
+    // display: flex-end;
+    // width: 49.1vh;
   }
 
   > a {
-    margin-top: 1vh;
+    // margin-top: 1vh;
     font-weight: bold;
     font-size: large;
     text-decoration: none;
@@ -20,8 +31,8 @@ const HeaderStyle = styled.div`
 
   @media (max-width: 550px) {
     .navbar-wrapper {
-      background-color: none;
-      height: 10vh;
+      // background-color: #0f131fc4;
+      height: 2vh;
       width: 40vw;
       display: flex;
       justify-content: flex-end;
