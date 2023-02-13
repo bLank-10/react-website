@@ -1,11 +1,11 @@
-import PageHeader from "../../components/PageHeader/PageHeader";
+import { EventP, EventSection } from "./styleevent";
 
 const Event = () => {
   return (
-    <eventSection>
-      <PageHeader title="Event" />
+    <EventSection>
+      <h1>Event</h1>
       <article>
-        <eventP>
+        <EventP>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
           convallis purus a tortor mattis, quis vulputate mi imperdiet. In a
           libero ut lacus dictum volutpat. Aliquam erat volutpat. Fusce neque
@@ -20,10 +20,11 @@ const Event = () => {
           facilisis, ex ante ullamcorper dolor, ac dignissim risus ipsum vel
           nisl. Sed rutrum augue nisi, imperdiet sollicitudin nulla eleifend eu.
           Proin suscipit rutrum tempor. Maecenas id rutrum tellus.
-        </eventP>
+        </EventP>
       </article>
-    </eventSection>
+    </EventSection>
   );
 };
 
 export default Event;
+

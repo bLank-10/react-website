@@ -2,7 +2,7 @@ import Home1 from "../../components/home1/home1";
 import Home2 from "../../components/home2/home2";
 import Home3 from "../../components/home3/home3";
 
-const Landing = () => (
+const Home = () => (
   <>
     <Home1 />
     <Home2 />
@@ -10,4 +10,4 @@ const Landing = () => (
   </>
 );
 
-export default Landing;
+export default Home;

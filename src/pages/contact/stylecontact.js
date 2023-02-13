@@ -1,5 +1,4 @@
 import styled, { css } from "styled-components";
-//may remove css
 
 export const StyledForm = styled.form`
   display: flex;
@@ -19,6 +18,28 @@ export const StyledForm = styled.form`
     }
   }
 `
+
+export const FormSection = styled.section`
+  margin-bottom: 40.4375em;
+
+
+  padding-inline: 1em;
+
+  @media (min-width: 48em) {
+    padding-inline: 2em;
+  }
+  @media (min-width: 80em) {
+    padding-inline: calc((100% - 80em) / 2 + 2.5em);
+  }
+
+  h1{
+    margin: 0;
+    padding: 100px 20px;
+    font-size: 5rem
+  }
+
+
+`;
 
 export const StyledLabel = styled.label`
   display: flex;

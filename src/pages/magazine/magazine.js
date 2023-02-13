@@ -1,11 +1,11 @@
-import PageHeader from "../../components/PageHeader/PageHeader";
+import { MagazineP, MagazineSection } from "./stylemagazine";
 
 const Magazine = () => {
   return (
-    <magazineSection>
-      <PageHeader title="Magazine" />
+    <MagazineSection>
+      <h1>Magazine</h1>
       <article>
-        <magazineP>
+        <MagazineP>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
           convallis purus a tortor mattis, quis vulputate mi imperdiet. In a
           libero ut lacus dictum volutpat. Aliquam erat volutpat. Fusce neque
@@ -20,9 +20,9 @@ const Magazine = () => {
           facilisis, ex ante ullamcorper dolor, ac dignissim risus ipsum vel
           nisl. Sed rutrum augue nisi, imperdiet sollicitudin nulla eleifend eu.
           Proin suscipit rutrum tempor. Maecenas id rutrum tellus.
-        </magazineP>
+        </MagazineP>
       </article>
-    </magazineSection>
+    </MagazineSection>
   );
 };
 

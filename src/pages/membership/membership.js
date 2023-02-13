@@ -1,11 +1,11 @@
-import PageHeader from "../../components/PageHeader/PageHeader";
+import { MembershipP, MembershipSection } from "./stylemembership";
 
 const Membership = () => {
   return (
-    <membershipSection>
-      <PageHeader title="Membership" />
+    <MembershipSection>
+      <h1>Membership</h1>
       <article>
-        <membershipP>
+        <MembershipP>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
           convallis purus a tortor mattis, quis vulputate mi imperdiet. In a
           libero ut lacus dictum volutpat. Aliquam erat volutpat. Fusce neque
@@ -20,9 +20,9 @@ const Membership = () => {
           facilisis, ex ante ullamcorper dolor, ac dignissim risus ipsum vel
           nisl. Sed rutrum augue nisi, imperdiet sollicitudin nulla eleifend eu.
           Proin suscipit rutrum tempor. Maecenas id rutrum tellus.
-        </membershipP>
+        </MembershipP>
       </article>
-    </membershipSection>
+    </MembershipSection>
   );
 };
 

@@ -1,24 +1,15 @@
 import styled from "styled-components";
 
-// export const StyledSection = styled.section`
-//   position: relative;
-//   min-height: 90vh;
-//   display: grid;
-//   align-content: center;
-//   justify-items: center;
+export const StyledSection = styled.section`
 
-//   @media (min-width: 48em) {
-//     grid-template-columns: repeat(12, 1fr);
-//     min-height: 100vh;
-//   }
-// `;
+   padding-inline: 1em;
+   
+     @media (min-width: 48em) {
+       padding-inline: 2em;
+     }
+     @media (min-width: 80em) {
+       padding-inline: calc((100% - 80em) / 2 + 2.5em);
+     }
 
-// export const SimpleImageSlider = styled.div`
-//   text-align: center;
-//   position: center
-  
-//   @media (min-width: 48em) {
-//     grid-column: 1 / 8;
-//     text-align: start;
-//   }
-// `;
+
+`;

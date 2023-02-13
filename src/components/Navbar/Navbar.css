@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 75px;
+    background-color: #042c5d;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.logo{
+    font-size: 30px;
+    left: 20px;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    width: 75%;
+}
+
+.home,
+.membership,
+.magazine,
+.about,
+.event,
+.contact{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.home:hover, .membership:hover, .magazine:hover, .about:hover, .event:hover, .contact:hover {
+    background-color: rgb(77, 54, 157);
+    border-radius: 10px;
+}
+
+.home:active, .membership:active, .magazine:active, .about:active, .event:active, .contact:active {
+    background-color: rgba(154, 2, 2, 0.763);
+}
+
+.mobile-menu-icon{
+    display: none;
+}
+
+@media screen and (max-width: 1190px){
+    .logo{
+        display: flex;
+        position: absolute;
+        /* top: 15px; */
+        left: 20px;
+        font-size: 30px;
+    }
+
+    .nav-links{
+        display: none;
+    }
+
+    .nav-links-mobile{
+        position: absolute;
+        display: block;
+        list-style: none;
+        background-color: #042c5d;
+        left: 0;
+        top: 75px;
+        transition: all 0.5s ease-out;
+        width: 100%;
+    }
+
+    .home,
+    .membership,
+    .magazine,
+    .about,
+    .event,
+    .contact{
+        color: white;
+        text-align: center;
+        padding: 32px;
+        width: 100%;
+        transition: all 0.5s ease;
+    }
+
+    .home:hover, .membership:hover, .magazine:hover, .about:hover, .event:hover, .contact:hover {
+        background-color: rgb(77, 54, 157);
+    }
+    
+    .home:active, .membership:active, .magazine:active, .about:active, .event:active, .contact:active {
+        background-color: rgba(154, 2, 2, 0.763);
+    }
+
+    .mobile-menu-icon{
+        display: block;
+        position: absolute;
+        font-size: 30px;
+        color: white;
+        background-color: #042c5d;
+        border: none;
+        outline: none;
+        top: 15px;
+        right: 25px;
+    }
+}
