@@ -1,10 +1,9 @@
-import PageHeader from "../../components/PageHeader/PageHeader";
 import { AboutP, AboutSection } from "./styleabout";
 
 const About = () => {
   return (
     <AboutSection>
-      <PageHeader title="About" />
+      <h1>About</h1>
       <article>
         <AboutP>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec

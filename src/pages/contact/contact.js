@@ -1,9 +1,9 @@
-import PageHeader from "../../components/PageHeader/PageHeader";
 
 import {
   StyledForm,
   StyledLabel,
   StyledInput,
+  FormSection,
   StyledTextArea,
   StyledSubmitButton
 } from "./stylecontact";
@@ -18,8 +18,8 @@ const Contact = () => {
   }
 
   return (
-    <>
-      <PageHeader title="Contact Us" />
+    <FormSection>
+      <h1>Contact Us</h1>
       <section>
         <StyledForm onSubmit={handleFormSubmit}>
           <StyledLabel>
@@ -40,7 +40,7 @@ const Contact = () => {
           <StyledSubmitButton type="submit" value="Send" />
         </StyledForm>
       </section>
-    </>
+    </FormSection>
   );
 }
 

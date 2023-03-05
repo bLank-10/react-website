@@ -1,6 +1,6 @@
-import {
-  StyledSection,
-} from "./stylehome1";
+// import {
+//   StyledSection,
+// } from "./stylehome1";
 import SimpleImageSlider from "react-simple-image-slider";
 
 
@@ -16,15 +16,18 @@ const images = [
 
 
 const Home1 = () => (
-  <StyledSection>
+  // <StyledSection>
+  <div  className="imageslider">
       <SimpleImageSlider
-        width={1200}
-        height={504}
-        images={images}
-        showBullets={true}
-        showNavs={true}
+      width={'80%'}
+      height={504}
+      images={images}
+      showBullets={true}
+      showNavs={true}
       />
-  </StyledSection>
+ </div>
+    
+  // </StyledSection>
 );
 
 export default Home1;

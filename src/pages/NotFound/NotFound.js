@@ -1,15 +1,8 @@
-import PageHeader from "../../components/PageHeader/PageHeader";
-import { StyledSection } from "./styleNotFound";
 
 const NotFound = () => (
   <>
-    <PageHeader title="Not found"/>
-    
-    <StyledSection>
-      <article>
+    <h1>Not found</h1>
         <p>Sorry, we were unable to find what you were looking for.</p>
-      </article>
-    </StyledSection>
   </>
 );
 

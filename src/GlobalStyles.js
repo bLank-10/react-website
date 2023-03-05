@@ -10,7 +10,6 @@ export default createGlobalStyle`
   html {
     box-sizing: border-box;
   }
-
   body {
     margin: 0;
     background-color: #0F131F;
@@ -21,15 +20,12 @@ export default createGlobalStyle`
     word-wrap: break-word;
     word-break: break-word;
   }
-
   code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
   }
-
   a {
     color: #FFFFFF;
   }
-
   img {
     max-width: 100%;
     height: auto;

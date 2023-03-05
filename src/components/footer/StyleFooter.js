@@ -1,24 +1,35 @@
 import styled from "styled-components";
-import { Link } from "react-router-dom";
 
 export const StyledFooterColumn = styled.div`
   display: flex;
   flex-direction: column;
-  gap: 1.21875em;
+  gap: 2em;
 `;
 
 export const StyledFooterSection = styled.section`
   display: flex;
   flex-direction: column;
   bottom: 0;
-  background-color: #141823;
+  background-color: #333;
   padding-top: 1.9375em;
+
+
+  padding-inline: 1em;
+
+  @media (min-width: 48em) {
+    padding-inline: 2em;
+  }
+  @media (min-width: 80em) {
+    padding-inline: calc((100% - 80em) / 2 + 2.5em);
+  }
+
+
 `;
 
 export const StyledFooterRow = styled.div`
   display: flex;
   justify-content: space-between;
-  gap: 6.3125em;
+  gap: 6em;
   @media (max-width: 811px) {
     gap: 1.5625em;
     flex-direction: column;
@@ -84,12 +95,8 @@ export const FooterP = styled.p`
   }}
 `;
 
-export const FooterLink = styled(Link)`
-  color: #cccccc;
-  text-decoration: none;
-`;
 
-export const FooterA = styled.a`
-  color: #cccccc;
-  text-decoration: none;
+export const Map = styled.div`
+  // height: 888;
+  width: 100%;
 `;
