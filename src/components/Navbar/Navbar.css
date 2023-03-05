@@ -1,10 +1,10 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-.navbar{
+.navbar {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -16,12 +16,12 @@
     z-index: 999;
 }
 
-.logo{
+.logo {
     font-size: 30px;
     left: 20px;
 }
 
-.nav-links{
+.nav-links {
     display: flex;
     justify-content: flex-end;
     list-style: none;
@@ -30,10 +30,10 @@
 
 .home,
 .membership,
-.magazine,
+.team,
 .about,
 .event,
-.contact{
+.contact {
     text-decoration: none;
     color: white;
     font-size: 20px;
@@ -42,37 +42,65 @@
     cursor: pointer;
 }
 
-.home:hover, .membership:hover, .magazine:hover, .about:hover, .event:hover, .contact:hover {
-    background-color: rgb(77, 54, 157);
+.home:hover,
+.membership:hover,
+.team:hover,
+.about:hover,
+.event:hover,
+.contact:hover {
+    position: relative;
+    text-decoration: none;
+}
+
+.home:hover::after,
+.membership:hover::after,
+.team:hover::after,
+.about:hover::after,
+.event:hover::after,
+.contact:hover::after {
+    content: "";
+    display: block;
+    position: absolute;
+    /* left: 1; */
+    bottom: -3px;
+    height: 5px;
+    width: 80%;
+    background-color: blue;
     border-radius: 10px;
 }
 
-.home:active, .membership:active, .magazine:active, .about:active, .event:active, .contact:active {
-    background-color: rgba(154, 2, 2, 0.763);
+.home:active,
+.membership:active,
+.team:active,
+.about:active,
+.event:active,
+.contact:active {
+    /* background-color: rgba(15, 0, 91, 0.765); */
+    position: relative;
+    top: 2px;
 }
 
-.mobile-menu-icon{
+.mobile-menu-icon {
     display: none;
 }
 
-@media screen and (max-width: 1190px){
-    .logo{
+@media screen and (max-width: 1190px) {
+    .logo {
         display: flex;
         position: absolute;
-        /* top: 15px; */
         left: 20px;
         font-size: 30px;
     }
 
-    .nav-links{
+    .nav-links {
         display: none;
     }
 
-    .nav-links-mobile{
+    .nav-links-mobile {
         position: absolute;
         display: block;
         list-style: none;
-        background-color: #042c5d;
+        background-color: #0f131fc4;
         left: 0;
         top: 75px;
         transition: all 0.5s ease-out;
@@ -81,10 +109,10 @@
 
     .home,
     .membership,
-    .magazine,
+    .team,
     .about,
     .event,
-    .contact{
+    .contact {
         color: white;
         text-align: center;
         padding: 32px;
@@ -92,20 +120,12 @@
         transition: all 0.5s ease;
     }
 
-    /* .home:hover, .membership:hover, .magazine:hover, .about:hover, .event:hover, .contact:hover {
-        background-color: rgb(77, 54, 157);
-    }
-    
-    .home:active, .membership:active, .magazine:active, .about:active, .event:active, .contact:active {
-        background-color: rgba(154, 2, 2, 0.763);
-    } */
-
-    .mobile-menu-icon{
+    .mobile-menu-icon {
         display: block;
         position: absolute;
         font-size: 30px;
         color: white;
-        background-color: #042c5d;
+        background-color: #0f131fc4;
         border: none;
         outline: none;
         top: 15px;

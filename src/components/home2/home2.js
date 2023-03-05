@@ -6,8 +6,8 @@ import {
 
 const Home2 = () => (
   <StyledSection>
-    <StyledHeading>section2</StyledHeading>
-    <p>lorem ipsum</p>
+    <StyledHeading>ACHIEVEMENTS</StyledHeading>
+    <p>All ACHIEVEMENTS of the club</p>
   </StyledSection>
 )
 

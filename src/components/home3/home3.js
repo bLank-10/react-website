@@ -6,8 +6,8 @@ import {
 
 const Home3 = () => (
   <StyledSection>
-      <StyledHeading>section3</StyledHeading>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <StyledHeading>UPCOMING EVENTS</StyledHeading>
+      <p>All UPCOMING events of the club</p>
   </StyledSection>
 );
 

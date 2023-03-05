@@ -8,6 +8,8 @@ export const StyledSection = styled.section`
   gap: 2em;
   padding-block: 4em;
 
+  margin-bottom: 30em;
+
 
   padding-inline: 1em;
 

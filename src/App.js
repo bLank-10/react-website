@@ -8,7 +8,7 @@ import Home from "./pages/Home/Home"
 import About from "./pages/about/about";
 import Event from "./pages/event/event"
 import Membership from "./pages/membership/membership"
-import Magazine from "./pages/magazine/magazine"
+import Team from "./pages/team/team"
 import Contact from "./pages/contact/contact";
 import Navbar from "./components/Navbar/Navbar";
 
@@ -25,7 +25,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/event" element={<Event />} />
           <Route path="/membership" element={<Membership />} />
-          <Route path="/magazine" element={<Magazine />} />
+          <Route path="/team" element={<Team />} />
         </Routes>
         <Footer />
     </>

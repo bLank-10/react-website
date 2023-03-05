@@ -30,8 +30,4 @@ export default createGlobalStyle`
     color: #FFFFFF;
   }
 
-  img {
-    max-width: 100%;
-    height: auto;
-  }
 `

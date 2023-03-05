@@ -16,15 +16,16 @@ const images = [
 
 
 const Home1 = () => (
-  // <StyledSection>
+  
+  <center>
       <SimpleImageSlider
-        width={'100%'}
+        width={'80%'}
         height={504}
         images={images}
         showBullets={true}
         showNavs={true}
       />
-  // </StyledSection>
+  </center>
 );
 
 export default Home1;

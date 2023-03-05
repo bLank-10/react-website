@@ -11,7 +11,7 @@ export const StyledFooterSection = styled.section`
   flex-direction: column;
   bottom: 0;
   background-color: #333;
-  padding-top: 1.9375em;
+  padding-top: 1em;
 
 
   padding-inline: 1em;
@@ -29,7 +29,7 @@ export const StyledFooterSection = styled.section`
 export const StyledFooterRow = styled.div`
   display: flex;
   justify-content: space-between;
-  gap: 6.3125em;
+  gap: 6em;
   @media (max-width: 811px) {
     gap: 1.5625em;
     flex-direction: column;
