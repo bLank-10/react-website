@@ -1,10 +1,10 @@
 import styled from "styled-components";
 
-export const EventP = styled.p`
-  font-size: 1rem;
-  margin-bottom: 1em;
-  max-width: 75ch;
-`;
+// export const EventP = styled.p`
+//   font-size: 1rem;
+//   margin-bottom: 1em;
+//   max-width: 75ch;
+// `;
 
 export const EventSection = styled.section`
   margin-bottom: 40.4375em;
