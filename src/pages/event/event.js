@@ -1,16 +1,15 @@
-import { EventSection } from "./styleevent";
+
+import "./event.css"
 
 
 const Event = () => {
   return (
-    <EventSection>
+    <div class="EventSection">
 
       <h1>Event</h1>
 
-    
 
-
-    </EventSection>
+    </div>
   );
 };
 

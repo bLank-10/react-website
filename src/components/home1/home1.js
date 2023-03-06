@@ -1,6 +1,4 @@
-// import {
-//   StyledSection,
-// } from "./stylehome1";
+
 import SimpleImageSlider from "react-simple-image-slider";
 
 

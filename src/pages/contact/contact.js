@@ -8,6 +8,7 @@ import {
   StyledSubmitButton
 } from "./stylecontact";
 
+
 const Contact = () => {
   const handleFormSubmit = (e) => {
     e.preventDefault();

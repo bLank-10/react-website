@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 
-import GlobalStyles from "./GlobalStyles";
+import "./styles.css" 
 import Footer from "./components/footer/Footer";
 
 import NotFound from "./pages/NotFound/NotFound";
@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      <GlobalStyles />
+      <styles />
         <Navbar />
         <Routes basename={process.env.PUBLIC_URL}>
           <Route path="*" element={<NotFound />} />

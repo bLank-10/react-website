@@ -1,11 +1,11 @@
-import { AboutP, AboutSection } from "./styleabout";
+import "./about.css"
 
 const About = () => {
   return (
-    <AboutSection>
+    <div class="AboutSection">
       <h1>About</h1>
       <article>
-        <AboutP>
+        <div class="AboutP">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
           convallis purus a tortor mattis, quis vulputate mi imperdiet. In a
           libero ut lacus dictum volutpat. Aliquam erat volutpat. Fusce neque
@@ -20,9 +20,9 @@ const About = () => {
           facilisis, ex ante ullamcorper dolor, ac dignissim risus ipsum vel
           nisl. Sed rutrum augue nisi, imperdiet sollicitudin nulla eleifend eu.
           Proin suscipit rutrum tempor. Maecenas id rutrum tellus.
-        </AboutP>
+        </div>
       </article>
-    </AboutSection>
+    </div>
   );
 };
 

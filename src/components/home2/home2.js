@@ -1,14 +1,11 @@
 
-import {
-  StyledSection,
-  StyledHeading,
-} from "./stylehome2";
+import "./home2.css"
 
 const Home2 = () => (
-  <StyledSection>
-    <StyledHeading>ACHIEVEMENTS</StyledHeading>
+  <div class="Styledhome2">
+    <h2>ACHIEVEMENTS</h2>
     <p>All ACHIEVEMENTS of the club</p>
-  </StyledSection>
+  </div>
 )
 
 export default Home2;

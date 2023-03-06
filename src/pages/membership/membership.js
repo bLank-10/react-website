@@ -1,11 +1,12 @@
-import { MembershipP, MembershipSection } from "./stylemembership";
+
+import "./membership.css"
 
 const Membership = () => {
   return (
-    <MembershipSection>
+    <div class="MembershipSection">
       <h1>Membership</h1>
       <article>
-        <MembershipP>
+        <div class="MembershipP">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
           convallis purus a tortor mattis, quis vulputate mi imperdiet. In a
           libero ut lacus dictum volutpat. Aliquam erat volutpat. Fusce neque
@@ -20,9 +21,9 @@ const Membership = () => {
           facilisis, ex ante ullamcorper dolor, ac dignissim risus ipsum vel
           nisl. Sed rutrum augue nisi, imperdiet sollicitudin nulla eleifend eu.
           Proin suscipit rutrum tempor. Maecenas id rutrum tellus.
-        </MembershipP>
+        </div>
       </article>
-    </MembershipSection>
+    </div>
   );
 };
 

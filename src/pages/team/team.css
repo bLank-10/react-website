@@ -1,12 +1,6 @@
-import styled from "styled-components";
 
-// export const TeamP = styled.p`
-//   font-size: 1rem;
-//   margin-bottom: 1em;
-//   max-width: 75ch;
-// `;
 
-export const TeamSection = styled.section`
+.TeamSection {
   margin-bottom: 40.4375em;
 
 
@@ -18,19 +12,16 @@ export const TeamSection = styled.section`
   @media (min-width: 80em) {
     padding-inline: calc((100% - 80em) / 2 + 2.5em);
   }
+}
 
-  h1{
-    margin: 0;
-    padding: 100px 20px;
-    font-size: 5rem
-  }
-
-
-
+h1{
+  margin: 0;
+  padding: 100px 20px;
+  font-size: 5rem
+}
 
 
-
-  * {
+* {
   font-family: Nunito, sans-serif;
 }
 
@@ -152,5 +143,3 @@ export const TeamSection = styled.section`
     margin-left: 0px;
   }
 }
-
-`;

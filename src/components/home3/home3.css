@@ -1,14 +1,11 @@
-import styled from "styled-components";
-
-
-export const StyledSection = styled.section`
+.Styledhome3 {
   background-color: rgb(15, 19, 31);;
   display: flex;
   flex-direction: column;
   gap: 2em;
   padding-block: 4em;
 
-  margin-bottom: 30em;
+  margin-bottom: 10em;
 
 
   padding-inline: 1em;
@@ -28,16 +25,13 @@ export const StyledSection = styled.section`
     align-items: start;
     justify-content: space-between;
   }
-`;
+}
 
-export const StyledHeading = styled.h2`
+h2 {
   text-align: center;
 
   @media (min-width: 48em) {
     font-size: 2rem;
     grid-column: 1 / 4;
   }
-`;
-
-
-
+}

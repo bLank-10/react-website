@@ -1,9 +1,10 @@
-import {TeamSection } from "./styleteam";
+// import {TeamSection } from "./styleteam";
+import "./team.css"
 
 
 const Team = () => {
   return (
-    <TeamSection>
+    <div class="TeamSection">
       <h1 align='center'>OUR TEAM</h1>
 
 
@@ -263,7 +264,7 @@ const Team = () => {
 
   </div>
 </div>
-    </TeamSection>
+    </div>
   );
 };
 

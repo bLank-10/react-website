@@ -1,13 +1,11 @@
-import styled from "styled-components";
-
-export const AboutP = styled.p`
+.AboutP {
   font-size: 1rem;
   margin-bottom: 1em;
   max-width: 75ch;
-`;
+}
 
-export const AboutSection = styled.section`
-  margin-bottom: 40.4375em;
+.AboutSection {
+    margin-bottom: 40.4375em;
 
 
   padding-inline: 1em;
@@ -18,11 +16,10 @@ export const AboutSection = styled.section`
   @media (min-width: 80em) {
     padding-inline: calc((100% - 80em) / 2 + 2.5em);
   }
+}
 
-  h1{
-    margin: 0;
-    padding: 100px 20px;
-    font-size: 5rem
-  }
-
-`;
+h1{
+  margin: 0;
+  padding: 100px 20px;
+  font-size: 5rem
+}
