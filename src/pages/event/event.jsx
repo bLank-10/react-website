@@ -2,7 +2,7 @@
 import "./event.css"
 
 
-const Event = () => {
+function Event() {
   return (
     <div class="EventSection">
 
@@ -10,8 +10,8 @@ const Event = () => {
 
 
     </div>
-  );
-};
+  )
+}
 
 export default Event;
 

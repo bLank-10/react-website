@@ -1,6 +1,6 @@
 import "./about.css"
 
-const About = () => {
+function About() {
   return (
     <div class="AboutSection">
       <h1>About</h1>
@@ -23,7 +23,7 @@ const About = () => {
         </div>
       </article>
     </div>
-  );
-};
+  )
+}
 
 export default About;

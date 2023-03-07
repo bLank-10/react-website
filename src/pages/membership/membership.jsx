@@ -1,7 +1,7 @@
 
 import "./membership.css"
 
-const Membership = () => {
+function Membership() {
   return (
     <div class="MembershipSection">
       <h1>Membership</h1>
@@ -24,7 +24,7 @@ const Membership = () => {
         </div>
       </article>
     </div>
-  );
-};
+  )
+}
 
 export default Membership;

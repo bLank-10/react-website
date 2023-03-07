@@ -1,8 +1,7 @@
-// import {TeamSection } from "./styleteam";
 import "./team.css"
 
 
-const Team = () => {
+function Team() {
   return (
     <div class="TeamSection">
       <h1 align='center'>OUR TEAM</h1>
@@ -265,7 +264,7 @@ const Team = () => {
   </div>
 </div>
     </div>
-  );
-};
+  )
+}
 
 export default Team;

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import "./Navbar.css"
 
 
-const Navbar = () => {
+function Navbar() {
 
     const [isMobile, setIsMobile] = useState(false);
     

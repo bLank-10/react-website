@@ -10,7 +10,7 @@ import {
 
 import Iframe from 'react-iframe'
 
-const Footer = () => {
+function Footer() {
   return (
     <StyledFooterSection>
       <StyledFooterColumn>
@@ -44,7 +44,7 @@ const Footer = () => {
         </StyledFooterRow>
       </StyledFooterRow>
     </StyledFooterSection>
-  );
-};
+  )
+}
 
 export default Footer;

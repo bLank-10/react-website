@@ -13,10 +13,11 @@ const images = [
 ];
 
 
-const Home1 = () => (
-  
+function Home1() {
+  return (
+
   <center>
-      <SimpleImageSlider
+        <SimpleImageSlider
         width={'80%'}
         height={504}
         images={images}
@@ -24,6 +25,7 @@ const Home1 = () => (
         showNavs={true}
       />
   </center>
-);
+  )
+}
 
 export default Home1;
