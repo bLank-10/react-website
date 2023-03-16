@@ -1,6 +1,5 @@
 import "./team.css"
 
-
 function Team() {
   return (
     <div class="TeamSection">
