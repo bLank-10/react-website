@@ -11,13 +11,13 @@ function Team() {
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
       <div class="card">
         <div class="team-image-wrapper">
-          <img class="team-member-image" src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/>
+          <img class="team-member-image" src={require('./images/Aryav.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-          NARUTO
+        Aryav 
         </p>
         <p class="text-blk position">
-          CEO
+          CHAIRMAN <br></br><br></br>
         </p>
         <p class="text-blk feature-text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -39,13 +39,13 @@ function Team() {
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
       <div class="card">
         <div class="team-image-wrapper">
-          <img class="team-member-image" src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/>
+          <img class="team-member-image" src={require('./images/Brett.png')} alt="img"/>
         </div>
         <p class="text-blk name">
-          LUFFY
+        Brett
         </p>
         <p class="text-blk position">
-          CEO
+          DEPUTY PROGRAM COMMITTEE HEAD
         </p>
         <p class="text-blk feature-text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -67,13 +67,13 @@ function Team() {
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
       <div class="card">
         <div class="team-image-wrapper">
-          <img class="team-member-image" src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/>
+          <img class="team-member-image" src={require('./images/Daffril.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-          ZORO
+        Daffril
         </p>
         <p class="text-blk position">
-          CEO
+        VICE CHAIRMAN <br></br><br></br>
         </p>
         <p class="text-blk feature-text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -96,13 +96,13 @@ function Team() {
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
       <div class="card">
         <div class="team-image-wrapper">
-          <img class="team-member-image" src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/>
+          <img class="team-member-image" src={require('./images/Infenda.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-          GOKU
+        Infenda
         </p>
         <p class="text-blk position">
-          CEO
+          TREASURER <br></br><br></br>
         </p>
         <p class="text-blk feature-text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -124,13 +124,13 @@ function Team() {
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
       <div class="card">
         <div class="team-image-wrapper">
-          <img class="team-member-image" src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/>
+          <img class="team-member-image" src={require('./images/Malavika.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-          HITACHI
+        Malavika
         </p>
         <p class="text-blk position">
-          CEO
+          PROGRAM COMMITTEE HEAD
         </p>
         <p class="text-blk feature-text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -152,13 +152,13 @@ function Team() {
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
       <div class="card">
         <div class="team-image-wrapper">
-          <img class="team-member-image" src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/>
+          <img class="team-member-image" src={require('./images/Mohit.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-          ARTHUR
+        Mohit
         </p>
         <p class="text-blk position">
-          CEO
+          DEPUTY FINANCE COMMITTEE
         </p>
         <p class="text-blk feature-text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -180,13 +180,13 @@ function Team() {
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
       <div class="card">
         <div class="team-image-wrapper">
-          <img class="team-member-image" src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/>
+          <img class="team-member-image" src={require('./images/Sakshi.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-          SHADOW MONARCH
+        Sakshi
         </p>
         <p class="text-blk position">
-          CEO
+          PUBLICITY COMMITTEE HEAD
         </p>
         <p class="text-blk feature-text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -208,13 +208,13 @@ function Team() {
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
       <div class="card">
         <div class="team-image-wrapper">
-          <img class="team-member-image" src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/>
+          <img class="team-member-image" src={require('./images/Sarveshaa.png')} alt="img"/>
         </div>
         <p class="text-blk name">
-          ANCIENT DRAGON
+        Sarveshaa
         </p>
         <p class="text-blk position">
-          CEO
+          DEPUTY PUBLICITY COMMITTEE HEAD
         </p>
         <p class="text-blk feature-text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -235,13 +235,92 @@ function Team() {
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
       <div class="card">
         <div class="team-image-wrapper">
-          <img class="team-member-image" src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/>
+          <img class="team-member-image" src={require('./images/Saumya.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-          BLANK
+        Saumya
         </p>
         <p class="text-blk position">
-          CEO
+          SECRETARY <br></br><br></br>
+        </p>
+        <p class="text-blk feature-text">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          </a>
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src={require('./images/Saurabh.jpg')} alt="img"/>
+        </div>
+        <p class="text-blk name">
+        Saurabh
+        </p>
+        <p class="text-blk position">
+          FINANCE COMMITTEE HEAD <br></br><br></br>
+        </p>
+        <p class="text-blk feature-text">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          </a>
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src={require('./images/Tacita.jpg')} alt="img"/>
+        </div>
+        <p class="text-blk name">
+        Tacita
+        </p>
+        <p class="text-blk position">
+          MEMBERSHIP COMMITTEE HEAD
+        </p>
+        <p class="text-blk feature-text">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          </a>
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src={require('./images/Tejas.jpg')} alt="img"/>
+        </div>
+        <p class="text-blk name">
+        Tejas
+        </p>
+        <p class="text-blk position">
+          DEPUTY MEMBERSHIP COMMITTEE HEAD
         </p>
         <p class="text-blk feature-text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.

@@ -28,8 +28,8 @@
 h2 {
     text-align: center;
 
-  @media (min-width: 48em) {
+  /* @media (min-width: 48em) {
     font-size: 2rem;
     grid-column: 1 / 4;
-  }
+  } */
 }
