@@ -2,45 +2,35 @@ import "./e4.css"
 function E4(){
   return(
     <div class="E4">
-      <h3>Event name</h3>
+      <h3>IEEE TECHNICAL QUIZ COMPETITION</h3>
       <br/>
       <div class="image-container">
-              <img src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/>
+              <img src={require('../event/images/Technical Quiz.jpeg')} alt="img"/>
               <figcaption>Event name</figcaption>
         </div>
-      <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.</p>
+      <p>The quiz has two rounds, the first containing 30 questions with a time limit of 30 minutes.
+The top 15 scorers will move to the final round consisting of 15 questions with a time limit of 20
+minutes. Cash prizes were given to the first and second runner-ups. In the case of ties, the
+participants that solve the questions faster will be selected.</p>
        
        <br/>
-        <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.</p>
-       
-
-       <br />
-
-
-       
-       <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.</p>
-        
-        <br/>
-
+       <br/>
+       <br/>
+       <br/>
        <p>Registration Link: <a href="https://docs.google.com/forms/d/e/1FAIpQLScVq6x0vnPSXhyUAC64S29I6GW1isuDqafWFLjALQ57xpsb_w/viewform?usp=send_form">https://docs.google.com/forms/d/e/1FAIpQLScVq6x0vnPSXhyUAC64S29I6GW1isuDqafWFLjALQ57xpsb_w/viewform?usp=send_form</a></p>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       
     </div>
  )
 }

@@ -2,46 +2,34 @@ import "./e2.css"
 function E2(){
  return(
     <div class="E2">
-      <h3>Event name</h3>
+      <h3>RESUME BUILDING SEMINAR</h3>
       <br/>
       <div class="image-container">
-              <img src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/>
+              <img src={require('../event/images/Resume Building.jpeg')} alt="img"/>
               <figcaption>Event name</figcaption>
         </div>
-      <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.</p>
+      <p> The seminar includes how to match your resume for the job requirements. It provided with
+the knowledge to create a winning resume and to receive feedback on current resume. It specifies
+what exactly the employers in our field are looking for in a resume.</p>
        
+<br/>
        <br/>
-        <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.</p>
-       
-
-       <br />
-
-
-       
-       <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatibus, natus minus velit sint libero quisquam officia. Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.Lorem ipsum, dolor sit
-        amet consectetur adipisicing elit.Hic voluptatibus, natus minus velit sint libero quisquam officia.Fuga necessitatibus fugiat incidunt est. Cumque harum nostrum nemo hic, voluptas perspiciatis quia.</p>
-        
-        <br/>
-
+       <br/>
+       <br/>
        <p>Registration Link: <a href="https://docs.google.com/forms/d/e/1FAIpQLScVq6x0vnPSXhyUAC64S29I6GW1isuDqafWFLjALQ57xpsb_w/viewform?usp=send_form">https://docs.google.com/forms/d/e/1FAIpQLScVq6x0vnPSXhyUAC64S29I6GW1isuDqafWFLjALQ57xpsb_w/viewform?usp=send_form</a></p>
-    </div>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </div>
  )
 }
 
