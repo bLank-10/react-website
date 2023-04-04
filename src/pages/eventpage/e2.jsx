@@ -6,7 +6,7 @@ function E2(){
       <br/>
       <div class="image-container">
               <img src={require('../event/images/Resume Building.jpeg')} alt="img"/>
-              <figcaption>Event name</figcaption>
+              <figcaption>SEMINAR POSTER</figcaption>
         </div>
       <p> The seminar includes how to match your resume for the job requirements. It provided with
 the knowledge to create a winning resume and to receive feedback on current resume. It specifies

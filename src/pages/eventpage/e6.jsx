@@ -6,7 +6,7 @@ function E6(){
       <br/>
       <div class="image-container">
               <img src={require('../event/images/Sync Sound.jpeg')} alt="img"/>
-              <figcaption>Event name</figcaption>
+              <figcaption>SYCN SOUND POSTER</figcaption>
         </div>
       <p>An online event was conducted by speaker Mr. Anil Radhakrishnan on Art of live sound
 recording in Movies. The speaker told all the amazing facts that happened while recording any

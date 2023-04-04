@@ -6,7 +6,7 @@ function E4(){
       <br/>
       <div class="image-container">
               <img src={require('../event/images/Technical Quiz.jpeg')} alt="img"/>
-              <figcaption>Event name</figcaption>
+              <figcaption>QUIZ COMPETITION POSTER</figcaption>
         </div>
       <p>The quiz has two rounds, the first containing 30 questions with a time limit of 30 minutes.
 The top 15 scorers will move to the final round consisting of 15 questions with a time limit of 20

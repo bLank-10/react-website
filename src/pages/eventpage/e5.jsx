@@ -6,7 +6,7 @@ function E5(){
       <br/>
       <div class="image-container">
               <img src={require('../event/images/Musi - Matics.jpeg')} alt="img"/>
-              <figcaption>Event name</figcaption>
+              <figcaption>MUSI-MATICS POSTER</figcaption>
         </div>
       <p>
       A workshop was held on the relation of music with the mind. Speaker Ms. Keerthi Unni

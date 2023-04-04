@@ -5,8 +5,8 @@ function E3(){
       <h3>REPUBLIC DAY QUIZ</h3>
       <br/>
       <div class="image-container">
-              <img src={require('../event/images/IEEE Membership Drive.jpeg')} alt="img"/>
-              <figcaption>Event name</figcaption>
+              <img src={require('../event/images/Republic Day.jpeg')} alt="img"/>
+              <figcaption>QUIZ POSTER</figcaption>
         </div>
       <p>It was a small quiz competition conducted by an IEEE council to encourage the students to
 take active participation and get to know about the IEEE council.</p>
