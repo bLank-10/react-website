@@ -5,6 +5,8 @@
   gap: 2em;
   padding-block: 4em;
 
+  /* margin-bottom: 10em; */
+
 
   padding-inline: 1em;
 
@@ -25,11 +27,11 @@
   }
 }
 
-h2 {
-    text-align: center;
+h2.headertekst {
+  text-align: center;
 
-  /* @media (min-width: 48em) {
+  @media (min-width: 48em) {
     font-size: 2rem;
     grid-column: 1 / 4;
-  } */
+  }
 }

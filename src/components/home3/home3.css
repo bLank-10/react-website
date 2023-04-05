@@ -27,7 +27,7 @@
   }
 }
 
-h2 {
+h2.headertekst {
   text-align: center;
 
   @media (min-width: 48em) {
@@ -35,3 +35,22 @@ h2 {
     grid-column: 1 / 4;
   }
 }
+
+.container {
+  display: grid;
+  align-items: center; 
+  grid-template-columns: 12fr 12fr 1fr;
+  column-gap: 5px;
+ }
+ 
+ /* .imgage {
+   max-width: 60%;
+   max-height:30%;
+ } */
+
+
+ 
+ .text {
+   font-size: 70px;
+   text-align: end;
+ }

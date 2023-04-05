@@ -5,9 +5,10 @@ import Footer from "./components/footer/Footer";
 
 import NotFound from "./pages/NotFound/NotFound";
 import Home from "./pages/Home/Home"
-import About from "./pages/about/about";
+// import About from "./pages/about/about";
+import Home3 from "./components/home2/home2"
 import Event from "./pages/event/event"
-import Membership from "./pages/membership/membership"
+// import Membership from "./pages/membership/membership"
 import Team from "./pages/team/team"
 import Contact from "./pages/contact/contact";
 import Navbar from "./components/Navbar/Navbar";
@@ -30,10 +31,10 @@ function App() {
         <Routes basename={process.env.PUBLIC_URL}>
           <Route path="*" element={<NotFound />} />
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
+          <Route path="/home2" element={<Home3 />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/event" element={<Event />} />
-          <Route path="/membership" element={<Membership />} />
+          {/* <Route path="/membership" element={<Membership />} /> */}
           <Route path="/team" element={<Team />} />
           <Route path="/e1" element={<E1 />} />
           <Route path="/e2" element={<E2 />} />

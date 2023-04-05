@@ -2,7 +2,9 @@
 import "./event.css"
 
 
+
 function Event() {
+  
   return (
     <div class="EventSection">
     <h1 align='center'>Event</h1>
@@ -18,10 +20,9 @@ function Event() {
           <a href="#/e1">
           <div class="image-container">
               <img src={require('./images/STEM.jpeg')} alt="img"/>
-              {/* <img src="https://avatars.githubusercontent.com/u/71311777?v=4" alt="img"/> */}
             </div>
       <div className="card-name">
-        <p>STEM Education Workshop</p>
+        <h3>STEM Education Workshop</h3>
       </div>
           </a>
         </button>
@@ -39,7 +40,7 @@ function Event() {
               <img src={require('./images/Resume Building.jpeg')} alt="img"/>
             </div>
       <div className="card-name">
-        <p>Resume Building Seminar</p>
+        <h3>Resume Building Seminar</h3>
       </div>
           </a>
         </button>
@@ -57,7 +58,7 @@ function Event() {
               <img src={require('./images/Republic Day.jpeg')} alt="img"/>
             </div>
       <div className="card-name">
-        <p>Republic Day Quiz</p>
+        <h3>Republic Day Quiz</h3>
       </div>
           </a>
         </button>
@@ -75,7 +76,7 @@ function Event() {
             </div>
 
       <div className="card-name">
-        <p>Technical Quiz Competition</p>
+        <h3>Technical Quiz Competition</h3>
       </div>
           </a>
         </button>
@@ -104,7 +105,7 @@ function Event() {
               <img src={require('./images/Musi - Matics.jpeg')} alt="img"/>
             </div>
       <div className="card-name">
-        <p>Musi-Matics</p>
+        <h3>Musi-Matics</h3>
       </div>
           </a>
         </button>
@@ -123,7 +124,7 @@ function Event() {
               <img src={require('./images/Sync Sound.jpeg')} alt="img"/>
             </div>
       <div className="card-name">
-        <p>Sync Sound</p>
+        <h3>Sync Sound</h3>
       </div>
           </a>
         </button>
