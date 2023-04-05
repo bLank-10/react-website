@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.beb8e743.css",
-    "main.js": "/react-website/static/js/main.e82f2b40.js",
+    "main.css": "/react-website/static/css/main.e3b811db.css",
+    "main.js": "/react-website/static/js/main.975ca97d.js",
     "static/js/787.02d56b45.chunk.js": "/react-website/static/js/787.02d56b45.chunk.js",
     "static/media/Tacita.jpg": "/react-website/static/media/Tacita.d0a9074558860ae0f44c.jpg",
     "static/media/Sarveshaa.png": "/react-website/static/media/Sarveshaa.e7ca4d53470eb1763925.png",
@@ -22,12 +22,12 @@
     "static/media/Malavika.jpg": "/react-website/static/media/Malavika.424921f03fdef71883b1.jpg",
     "static/media/Daffril.jpg": "/react-website/static/media/Daffril.0072a052632411b45b15.jpg",
     "index.html": "/react-website/index.html",
-    "main.beb8e743.css.map": "/react-website/static/css/main.beb8e743.css.map",
-    "main.e82f2b40.js.map": "/react-website/static/js/main.e82f2b40.js.map",
+    "main.e3b811db.css.map": "/react-website/static/css/main.e3b811db.css.map",
+    "main.975ca97d.js.map": "/react-website/static/js/main.975ca97d.js.map",
     "787.02d56b45.chunk.js.map": "/react-website/static/js/787.02d56b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.beb8e743.css",
-    "static/js/main.e82f2b40.js"
+    "static/css/main.e3b811db.css",
+    "static/js/main.975ca97d.js"
   ]
 }
