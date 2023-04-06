@@ -5,9 +5,10 @@ function E4(){
       <h3>IEEE TECHNICAL QUIZ COMPETITION</h3>
       <br/>
       <div class="image-container">
+      <a href="https://drive.google.com/file/d/1uN92XRdL5LPIA10vPVobMhHnATbxp3H9/view?usp=sharing" target="blank">
               <img src={require('../event/images/Technical Quiz.jpeg')} alt="img"/>
               <figcaption>QUIZ COMPETITION POSTER</figcaption>
-        </div>
+       </a> </div>
       <p>The quiz has two rounds, the first containing 30 questions with a time limit of 30 minutes.
 The top 15 scorers will move to the final round consisting of 15 questions with a time limit of 20
 minutes. Cash prizes were given to the first and second runner-ups. In the case of ties, the

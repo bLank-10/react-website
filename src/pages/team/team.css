@@ -67,7 +67,7 @@ h1{
   margin-bottom: 60px;
   margin-left: auto;
   padding-top: 0px;
-  padding-right: 30px;
+  padding-right: 40px;
   padding-bottom: 0px;
   padding-left: 30px;
 }
@@ -80,13 +80,13 @@ h1{
   align-items: center;
   padding-top: 30px;
   padding-right: 25px;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
   padding-left: 25px;
   background-color: LightGray;
 }
 
 .card-container {
-  width: 280px;
+  width: 250px;
   margin-top: 0px;
   margin-right: 10px;
   margin-bottom: 25px;
@@ -95,28 +95,20 @@ h1{
 
 .name {
   margin-top: 20px;
-  margin-right: 0px;
+  /* margin-right: 0px;
   margin-bottom: 5px;
-  margin-left: 0px;
+  margin-left: 0px; */ 
   font-size: 18px;
   font-weight: 800;
 }
 
 .position {
-  margin-top: 0px;
+  /* margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 10px;
-  margin-left: 0px;
+  margin-left: 0px; */
 }
 
-.feature-text {
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 20px;
-  margin-left: 0px;
-  color: rgb(122, 122, 122);
-  line-height: 30px;
-}
 
 .social-icons {
   width: 70px;
@@ -130,6 +122,9 @@ h1{
   height: 130px;
 }
 
+p{
+  padding:20px;
+}
 .team-member-image {
   max-width: 100%;
 }

@@ -14,13 +14,10 @@ function Team() {
           <img class="team-member-image" src={require('./images/Aryav.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-        Aryav 
+        Aryav Shrivastava
         </p>
         <p class="text-blk position">
-          CHAIRMAN <br></br><br></br>
-        </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        CHAIRMAN <br></br><br></br>
         </p>
         <div class="social-icons">
           <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
@@ -32,36 +29,6 @@ function Team() {
         </div>
       </div>
     </div>
-
-
-
-
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
-      <div class="card">
-        <div class="team-image-wrapper">
-          <img class="team-member-image" src={require('./images/Brett.png')} alt="img"/>
-        </div>
-        <p class="text-blk name">
-        Brett
-        </p>
-        <p class="text-blk position">
-          DEPUTY PROGRAM COMMITTEE HEAD
-        </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        </p>
-        <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
-          </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
-          </a>
-        </div>
-      </div>
-    </div>
-
-
 
 
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
@@ -70,155 +37,12 @@ function Team() {
           <img class="team-member-image" src={require('./images/Daffril.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-        Daffril
+        Daffril Cleetus
         </p>
         <p class="text-blk position">
         VICE CHAIRMAN <br></br><br></br>
         </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        </p>
-        <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
-          </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
-          </a>
-        </div>
-      </div>
-    </div>
 
-
-   
-
-
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
-      <div class="card">
-        <div class="team-image-wrapper">
-          <img class="team-member-image" src={require('./images/Infenda.jpg')} alt="img"/>
-        </div>
-        <p class="text-blk name">
-        Infenda
-        </p>
-        <p class="text-blk position">
-          TREASURER <br></br><br></br>
-        </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        </p>
-        <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
-          </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
-          </a>
-        </div>
-      </div>
-    </div>
-
-
-
-
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
-      <div class="card">
-        <div class="team-image-wrapper">
-          <img class="team-member-image" src={require('./images/Malavika.jpg')} alt="img"/>
-        </div>
-        <p class="text-blk name">
-        Malavika
-        </p>
-        <p class="text-blk position">
-          PROGRAM COMMITTEE HEAD
-        </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        </p>
-        <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
-          </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
-          </a>
-        </div>
-      </div>
-    </div>
-
-
-
-
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
-      <div class="card">
-        <div class="team-image-wrapper">
-          <img class="team-member-image" src={require('./images/Mohit.jpg')} alt="img"/>
-        </div>
-        <p class="text-blk name">
-        Mohit
-        </p>
-        <p class="text-blk position">
-          DEPUTY FINANCE COMMITTEE
-        </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        </p>
-        <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
-          </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
-          </a>
-        </div>
-      </div>
-    </div>
-
-
-
-
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
-      <div class="card">
-        <div class="team-image-wrapper">
-          <img class="team-member-image" src={require('./images/Sakshi.jpg')} alt="img"/>
-        </div>
-        <p class="text-blk name">
-        Sakshi
-        </p>
-        <p class="text-blk position">
-          PUBLICITY COMMITTEE HEAD
-        </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        </p>
-        <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
-          </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
-          </a>
-        </div>
-      </div>
-    </div>
-
-
-
-
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
-      <div class="card">
-        <div class="team-image-wrapper">
-          <img class="team-member-image" src={require('./images/Sarveshaa.png')} alt="img"/>
-        </div>
-        <p class="text-blk name">
-        Sarveshaa
-        </p>
-        <p class="text-blk position">
-          DEPUTY PUBLICITY COMMITTEE HEAD
-        </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        </p>
         <div class="social-icons">
           <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
@@ -238,14 +62,72 @@ function Team() {
           <img class="team-member-image" src={require('./images/Saumya.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-        Saumya
+        Saumya Mary Dason
         </p>
         <p class="text-blk position">
           SECRETARY <br></br><br></br>
         </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          </a>
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+
+   
+
+
+   
+
+
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src={require('./images/Infenda.jpg')} alt="img"/>
+        </div>
+        <p class="text-blk name">
+        Infenda Loorthu
         </p>
+        <p class="text-blk position">
+          TREASURER <br></br><br></br>
+        </p>
+
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          </a>
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src={require('./images/Sakshi.jpg')} alt="img"/>
+        </div>
+        <p class="text-blk name">
+        Sakshi Kampli
+        </p>
+        <p class="text-blk position">
+          PUBLICITY COMMITTEE HEAD
+        </p>
+
         <div class="social-icons">
           <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
@@ -261,17 +143,15 @@ function Team() {
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
       <div class="card">
         <div class="team-image-wrapper">
-          <img class="team-member-image" src={require('./images/Saurabh.jpg')} alt="img"/>
+          <img class="team-member-image" src={require('./images/Sarveshaa.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-        Saurabh
+        Sarveshaa Swar
         </p>
         <p class="text-blk position">
-          FINANCE COMMITTEE HEAD <br></br><br></br>
+          DEPUTY PUBLICITY COMMITTEE HEAD
         </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        </p>
+
         <div class="social-icons">
           <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
@@ -290,14 +170,12 @@ function Team() {
           <img class="team-member-image" src={require('./images/Tacita.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-        Tacita
+        Tacita Thomas
         </p>
         <p class="text-blk position">
           MEMBERSHIP COMMITTEE HEAD
         </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        </p>
+
         <div class="social-icons">
           <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
@@ -317,14 +195,12 @@ function Team() {
           <img class="team-member-image" src={require('./images/Tejas.jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
-        Tejas
+        Tejas Patil
         </p>
         <p class="text-blk position">
           DEPUTY MEMBERSHIP COMMITTEE HEAD
         </p>
-        <p class="text-blk feature-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        </p>
+
         <div class="social-icons">
           <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
@@ -335,6 +211,115 @@ function Team() {
         </div>
       </div>
     </div>
+
+
+
+
+
+
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src={require('./images/Malavika.jpg')} alt="img"/>
+        </div>
+        <p class="text-blk name">
+        Malavika Preeth
+        </p>
+        <p class="text-blk position">
+          PROGRAM COMMITTEE HEAD
+        </p>
+
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          </a>
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src={require('./images/Brett.png')} alt="img"/>
+        </div>
+        <p class="text-blk name">
+        Brett Pinto
+        </p>
+        <p class="text-blk position">
+          DEPUTY PROGRAM COMMITTEE HEAD
+        </p>
+
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          </a>
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src={require('./images/Saurabh.jpg')} alt="img"/>
+        </div>
+        <p class="text-blk name">
+        Saurabh Kaduskar
+        </p>
+        <p class="text-blk position">
+          FINANCE COMMITTEE HEAD <br></br><br></br>
+        </p>
+
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          </a>
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          </a>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src={require('./images/Mohit.jpg')} alt="img"/>
+        </div>
+        <p class="text-blk name">
+        Mohit Ranjitsing R
+        </p>
+        <p class="text-blk position">
+          DEPUTY FINANCE COMMITTEE
+        </p>
+
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          </a>
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    
+
+
+
+    
 
 
 
