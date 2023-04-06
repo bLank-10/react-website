@@ -5,9 +5,10 @@ function E5(){
       <h3>IEEE MUSI-MATICS</h3>
       <br/>
       <div class="image-container">
+      <a href="https://drive.google.com/file/d/1eRqVq5yV-8RIS7i-1yNgD0SR-sJm7mNd/view?usp=sharing" target="blank">
               <img src={require('../event/images/Musi - Matics.jpeg')} alt="img"/>
               <figcaption>MUSI-MATICS POSTER</figcaption>
-        </div>
+       </a> </div>
       <p>
       A workshop was held on the relation of music with the mind. Speaker Ms. Keerthi Unni
       was an engineer passionate about music and helped everyone to spend time with themselves and

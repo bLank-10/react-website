@@ -5,9 +5,10 @@ function E6(){
       <h3>SYCN SOUND</h3>
       <br/>
       <div class="image-container">
+      <a href="https://drive.google.com/file/d/1Imn6dDWwhufSWZl19ZiWIedGFuiXMUsr/view?usp=sharing" target="blank">
               <img src={require('../event/images/Sync Sound.jpeg')} alt="img"/>
               <figcaption>SYCN SOUND POSTER</figcaption>
-        </div>
+       </a> </div>
       <p>An online event was conducted by speaker Mr. Anil Radhakrishnan on Art of live sound
 recording in Movies. The speaker told all the amazing facts that happened while recording any
 sound, the process of it, retakes taken while recording and the further details about releasing it. It

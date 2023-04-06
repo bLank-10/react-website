@@ -7,9 +7,10 @@ function E1(){
       <h3>IEEE STEM EDUCATION WORKSHOP</h3>
       <br/>
       <div class="image-container">
+      <a href="https://drive.google.com/file/d/1LLpf51X4Gx-p4X4DSGXR5sF7uDQsvqHo/view?usp=sharing" target="blank">
               <img src={require('../event/images/STEM.jpeg')} alt="img"/>
               <figcaption>STEM WORKSHOP PHOTO</figcaption>
-        </div>
+       </a> </div>
        <p> A bootcamp on STEM Education in various schools across Navi Mumbai. It includes
 visiting various schools and interacting with young minds teaching them about the various trends
 in technology, preparing various fun little experiments, giving the students a hands-on experience

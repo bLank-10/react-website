@@ -5,9 +5,10 @@ function E2(){
       <h3>RESUME BUILDING SEMINAR</h3>
       <br/>
       <div class="image-container">
+      <a href="https://drive.google.com/file/d/1NXAOLchF-QsCxch4ADx4xvthpZmvS24P/view?usp=sharing" target="blank">
               <img src={require('../event/images/Resume Building.jpeg')} alt="img"/>
               <figcaption>SEMINAR POSTER</figcaption>
-        </div>
+      </a> </div>
       <p> The seminar includes how to match your resume for the job requirements. It provided with
 the knowledge to create a winning resume and to receive feedback on current resume. It specifies
 what exactly the employers in our field are looking for in a resume.</p>
