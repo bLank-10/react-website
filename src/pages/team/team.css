@@ -78,17 +78,17 @@ h1{
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 30px;
-  padding-right: 25px;
-  padding-bottom: 50px;
-  padding-left: 25px;
+  padding-top: 40px;
+  /* padding-right: 25px; */
+  /* padding-bottom: 10px; */
+  /* padding-left: 50px; */
   background-color: LightGray;
 }
 
 .card-container {
   width: 250px;
   margin-top: 0px;
-  margin-right: 10px;
+  margin-right: 20px;
   margin-bottom: 25px;
   margin-left: 10px;
 }
@@ -114,12 +114,13 @@ h1{
   width: 70px;
   display: flex;
   justify-content: space-between;
+  margin: 40px;
 }
 
 .team-image-wrapper {
   clip-path: circle(50% at 50% 50%);
-  width: 130px;
-  height: 130px;
+  width: 140px;
+  height: 140px;
 }
 
 p{
