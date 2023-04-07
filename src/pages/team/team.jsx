@@ -276,7 +276,7 @@ function Team() {
         Saurabh Kaduskar
         </p>
         <p class="text-blk position">
-          FINANCE COMMITTEE HEAD <br></br><br></br>
+          FINANCE COMMITTEE HEAD 
         </p>
 
         <div class="social-icons">
