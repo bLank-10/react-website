@@ -1,4 +1,7 @@
 import "./team.css"
+import React from 'react';
+import Linkedin from './linkedin.svg';
+import Mail from './mail.svg';
 
 function Team() {
   return (
@@ -21,14 +24,15 @@ function Team() {
         </p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/aryav-shrivastava" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+            <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:aryav.shri@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+            <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
     </div>
+ 
 
 
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
@@ -45,10 +49,10 @@ function Team() {
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/daffril-cleetus" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:daffrilc@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
@@ -70,10 +74,10 @@ function Team() {
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/saumya-mary-dason" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:saumyamary69@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
@@ -105,10 +109,10 @@ function Team() {
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/loorthu-infenda-57ab60219/" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:infenda123@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
@@ -130,10 +134,10 @@ function Team() {
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/sakshi-kampli/" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+            <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:sakshsk01@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
@@ -143,7 +147,7 @@ function Team() {
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
       <div class="card">
         <div class="team-image-wrapper">
-          <img class="team-member-image" src={require('./images/Sarveshaa.jpg')} alt="img"/>
+          <img class="team-member-image" src={require('./images/Sarveshaa (1).jpg')} alt="img"/>
         </div>
         <p class="text-blk name">
         Sarveshaa Swar
@@ -154,10 +158,10 @@ function Team() {
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/sarveshaa-swar-9b71a1245" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:sarveshaaswar@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
@@ -178,10 +182,10 @@ function Team() {
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/tacita-thomas-43b861217" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:tacitathomas06@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
@@ -203,10 +207,10 @@ function Team() {
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/mwlite/in/tejas-patil-8294a4227" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:tejaspatil36155@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
@@ -231,10 +235,10 @@ function Team() {
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/malavikapreeth" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:malavikapreeth@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+            <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
@@ -255,10 +259,10 @@ function Team() {
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/brett-pinto-3a145321b" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:brettpinto3182@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
@@ -281,10 +285,10 @@ function Team() {
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/mwlite/profile/in/saurabh-kaduskar-716a2a1b9" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:saurabhkaduskar600@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
@@ -306,10 +310,10 @@ function Team() {
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/mohit-rajput-4a4ba726b" target="_blank" rel="noreferrer">
-            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
+          <img class="linkedin-icon" src={Linkedin} alt="img"/>
           </a>
           <a href="mailto:rajputmohit5958@gmail.com" target="_blank" rel="noreferrer">
-            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
+          <img class="mail-icon" src={Mail} alt="img"/>
           </a>
         </div>
       </div>
