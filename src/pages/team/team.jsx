@@ -20,10 +20,10 @@ function Team() {
         CHAIRMAN <br></br><br></br>
         </p>
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/aryav-shrivastava" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:aryav.shri@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
@@ -44,10 +44,10 @@ function Team() {
         </p>
 
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/daffril-cleetus" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:daffrilc@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
@@ -69,10 +69,10 @@ function Team() {
         </p>
 
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/saumya-mary-dason" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:saumyamary69@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
@@ -104,10 +104,10 @@ function Team() {
         </p>
 
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/loorthu-infenda-57ab60219/" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:infenda123@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
@@ -129,10 +129,10 @@ function Team() {
         </p>
 
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/sakshi-kampli/" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:sakshsk01@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
@@ -153,10 +153,10 @@ function Team() {
         </p>
 
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/sarveshaa-swar-9b71a1245" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:sarveshaaswar@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
@@ -177,10 +177,10 @@ function Team() {
         </p>
 
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/tacita-thomas-43b861217" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:tacitathomas06@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
@@ -202,10 +202,10 @@ function Team() {
         </p>
 
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/mwlite/in/tejas-patil-8294a4227" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:tejaspatil36155@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
@@ -230,10 +230,10 @@ function Team() {
         </p>
 
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/malavikapreeth" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:malavikapreeth@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
@@ -254,10 +254,10 @@ function Team() {
         </p>
 
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/brett-pinto-3a145321b" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:brettpinto3182@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
@@ -280,10 +280,10 @@ function Team() {
         </p>
 
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/mwlite/profile/in/saurabh-kaduskar-716a2a1b9" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:saurabhkaduskar600@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
@@ -305,10 +305,10 @@ function Team() {
         </p>
 
         <div class="social-icons">
-          <a href="https://www.twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/mohit-rajput-4a4ba726b" target="_blank" rel="noreferrer">
             <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg" alt="img"/>
           </a>
-          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+          <a href="mailto:rajputmohit5958@gmail.com" target="_blank" rel="noreferrer">
             <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg" alt="img"/>
           </a>
         </div>
