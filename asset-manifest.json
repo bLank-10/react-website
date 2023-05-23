@@ -1,33 +1,35 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.e3b811db.css",
-    "main.js": "/react-website/static/js/main.975ca97d.js",
+    "main.css": "/react-website/static/css/main.b629a804.css",
+    "main.js": "/react-website/static/js/main.74ead6bc.js",
     "static/js/787.02d56b45.chunk.js": "/react-website/static/js/787.02d56b45.chunk.js",
     "static/media/Tacita.jpg": "/react-website/static/media/Tacita.d0a9074558860ae0f44c.jpg",
-    "static/media/Sarveshaa.png": "/react-website/static/media/Sarveshaa.e7ca4d53470eb1763925.png",
+    "static/media/Mohit.jpg": "/react-website/static/media/Mohit.76c99d2f0d7d74705d39.jpg",
     "static/media/Brett.png": "/react-website/static/media/Brett.4f960a117f46b1546dc6.png",
-    "static/media/Mohit.jpg": "/react-website/static/media/Mohit.1ed212ab71b8a6981cc7.jpg",
     "static/media/Tejas.jpg": "/react-website/static/media/Tejas.4a378aa06029b8457b66.jpg",
     "static/media/Technical Quiz.jpeg": "/react-website/static/media/Technical Quiz.6e1837f0a855ad09cde0.jpeg",
     "static/media/Musi - Matics.jpeg": "/react-website/static/media/Musi - Matics.a6319b37aa6e01bf3257.jpeg",
+    "static/media/Aryav.jpg": "/react-website/static/media/Aryav.1355299431dad3bf5e09.jpg",
     "static/media/STEM.jpeg": "/react-website/static/media/STEM.616c6b077b71120a4395.jpeg",
     "static/media/Resume Building.jpeg": "/react-website/static/media/Resume Building.5506104508e4a291be02.jpeg",
     "static/media/Sync Sound.jpeg": "/react-website/static/media/Sync Sound.0938a2b3a784935865a1.jpeg",
     "static/media/Saumya.jpg": "/react-website/static/media/Saumya.af900358a3c479ef1b7c.jpg",
     "static/media/Saurabh.jpg": "/react-website/static/media/Saurabh.6f7a42ae4efda30b841e.jpg",
-    "static/media/Aryav.jpg": "/react-website/static/media/Aryav.77fba4c6d80e6279d9b4.jpg",
     "static/media/Sakshi.jpg": "/react-website/static/media/Sakshi.57c8377b30472b14fa34.jpg",
     "static/media/Infenda.jpg": "/react-website/static/media/Infenda.a2212a60db5638ec5574.jpg",
     "static/media/Republic Day.jpeg": "/react-website/static/media/Republic Day.f18e9be3376cdc41baa3.jpeg",
     "static/media/Malavika.jpg": "/react-website/static/media/Malavika.424921f03fdef71883b1.jpg",
     "static/media/Daffril.jpg": "/react-website/static/media/Daffril.0072a052632411b45b15.jpg",
+    "static/media/Sarveshaa (1).jpg": "/react-website/static/media/Sarveshaa (1).65d4c7adf94a22e0d58b.jpg",
+    "static/media/mail.svg": "/react-website/static/media/mail.0aa307a75f121d349573ed4e9fe3b657.svg",
+    "static/media/linkedin.svg": "/react-website/static/media/linkedin.52476a3e81a059d7b150cb91b5c94517.svg",
     "index.html": "/react-website/index.html",
-    "main.e3b811db.css.map": "/react-website/static/css/main.e3b811db.css.map",
-    "main.975ca97d.js.map": "/react-website/static/js/main.975ca97d.js.map",
+    "main.b629a804.css.map": "/react-website/static/css/main.b629a804.css.map",
+    "main.74ead6bc.js.map": "/react-website/static/js/main.74ead6bc.js.map",
     "787.02d56b45.chunk.js.map": "/react-website/static/js/787.02d56b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3b811db.css",
-    "static/js/main.975ca97d.js"
+    "static/css/main.b629a804.css",
+    "static/js/main.74ead6bc.js"
   ]
 }
