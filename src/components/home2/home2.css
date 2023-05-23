@@ -13,7 +13,7 @@
   @media (min-width: 48em) {
     padding-inline: 2em;
   }
-  @media (min-width: 80em) {
+  /* @media (min-width: 80em) {
     padding-inline: calc((100% - 80em) / 2 + 2.5em);
   }
 
@@ -24,7 +24,7 @@
     gap: 4em;
     align-items: start;
     justify-content: space-between;
-  }
+  } */
 }
 
 h2.headertekst {
@@ -35,3 +35,4 @@ h2.headertekst {
     grid-column: 1 / 4;
   }
 }
+

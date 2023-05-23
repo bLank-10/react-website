@@ -118,6 +118,10 @@ h1{
   /* padding:0px; */
 }
 
+.linkedin-icon , .mail-icon {
+  border: none;
+}
+
 .team-image-wrapper {
   clip-path: circle(50% at 50% 50%);
   width: 140px;
@@ -129,6 +133,7 @@ p{
 }
 .team-member-image {
   max-width: 100%;
+  border: none;
 }
 
 @media (max-width: 100px) {
