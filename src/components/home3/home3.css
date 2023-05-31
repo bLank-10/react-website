@@ -28,7 +28,7 @@ h2.headertekst {
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  
 }
 
 .wrapper {
@@ -36,19 +36,21 @@ h2.headertekst {
   width: 70%;
 }
 
-img {
-  max-width: 320px;
+.image {
+  width: 100px;
   float: left;
-  border: 3px solid #fff;
-  border-radius: 10px;
-  margin-right: 20px;
+  border: 0px solid #fff;
+  /* border-radius: 10px; */
+  margin-right: 300px;
 }
 
 .text-box {
+
   color: #fff;
 }
 
 .text-box h2 {
+
   font-size: 42px;
 }
 
