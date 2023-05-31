@@ -3,13 +3,13 @@ import SimpleImageSlider from "react-simple-image-slider";
 
 
 const images = [
-  { url: "https://picsum.photos/200/300.jpg" },
-  { url: "https://picsum.photos/200/301.jpg" },
-  { url: "https://picsum.photos/200/302.jpg" },
-  { url: "https://picsum.photos/200/303.jpg" },
-  { url: "https://picsum.photos/200/304.jpg" },
-  { url: "https://picsum.photos/200/305.jpg" },
-  { url: "https://picsum.photos/200/306.jpg" },
+  require('./images/1.jpeg'),
+  require('./images/2.jpeg'),
+  require('./images/7.jpeg'),
+  require('./images/3.jpeg'),
+
+
+
 ];
 
 
