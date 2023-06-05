@@ -10,7 +10,7 @@ function Event() {
     <h1 align='center'>Event</h1>
     {/* <p>Click to know more.</p> */}
 
-    <h2>Technical Events</h2>
+    <h2 >Technical Events</h2>
 
     <div class="grid-container">
     <div class="grid-item">
