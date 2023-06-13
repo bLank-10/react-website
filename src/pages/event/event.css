@@ -1,5 +1,5 @@
 .EventSection {
-  margin-bottom: 40.4375em;
+  margin-bottom: 20.4375em;
   padding-inline: 1em;
 
   @media (min-width: 48em) {
@@ -27,8 +27,11 @@ h2{
 }
 
 .grid-container{
-  display:grid;
-  grid-template-columns:auto auto auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); /* Example column setup */
+  grid-template-rows: repeat(auto-fit, minmax(300px, 1fr));
+  justify-items: center; /* Center items horizontally */
+  align-items: center; 
 }
 /* .grid-item{
   padding:40px;

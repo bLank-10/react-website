@@ -27,10 +27,12 @@ function Footer() {
             </Map>
             <StyledFooterColumn>
               <HeaderFooterP smallHeader>Fr. C. Rodrigues Institute of Technology, Vashi</HeaderFooterP>
-              <FooterP>Agnel Technical Education Complex,Sector 9-A,</FooterP>
-              <FooterP>Vashi, Navi Mumbai,</FooterP>
-              <FooterP>Maharashtra, India PIN - 400703</FooterP>
-              <FooterP>Contact No:  (022) 27771000 , 27662949, 27660619 </FooterP>
+              <FooterP>Agnel Technical Education Complex,Sector 9-A, Vashi, Navi Mumbai, Maharashtra, India PIN - 400703 <br></br> <br />
+              Contact No:  (022) 27771000 , 27662949, 27660619 Email ID:  ieeefcritweb@gmail.com 
+                   </FooterP>
+
+              {/* <FooterP></FooterP> */}
+              {/* <FooterP>Email ID:  ieeefcritweb@gmail.com </FooterP> */}
             </StyledFooterColumn>
         </StyledFooterRow>
       <Border />

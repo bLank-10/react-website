@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const StyledFooterColumn = styled.div`
   display: flex;
   flex-direction: column;
-  gap: 1.21875em;
+  gap: 0.5em;
 `;
 
 export const StyledFooterSection = styled.section`
@@ -11,10 +11,10 @@ export const StyledFooterSection = styled.section`
   flex-direction: column;
   bottom: 0;
   background-color: #333;
-  padding-top: 1em;
+  padding-top: 0.5em;
 
 
-  padding-inline: 1em;
+  padding-inline: 0.5em;
 
   @media (min-width: 48em) {
     padding-inline: 2em;
