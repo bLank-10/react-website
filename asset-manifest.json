@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.b629a804.css",
-    "main.js": "/react-website/static/js/main.74ead6bc.js",
+    "main.css": "/react-website/static/css/main.2d65fbd7.css",
+    "main.js": "/react-website/static/js/main.93dd9e97.js",
     "static/js/787.02d56b45.chunk.js": "/react-website/static/js/787.02d56b45.chunk.js",
     "static/media/Tacita.jpg": "/react-website/static/media/Tacita.d0a9074558860ae0f44c.jpg",
     "static/media/Mohit.jpg": "/react-website/static/media/Mohit.76c99d2f0d7d74705d39.jpg",
+    "static/media/2.jpeg": "/react-website/static/media/2.d91f1ff4e79bc7808ff7.jpeg",
     "static/media/Brett.png": "/react-website/static/media/Brett.4f960a117f46b1546dc6.png",
+    "static/media/1.jpeg": "/react-website/static/media/1.99b9bc38552b1b43e632.jpeg",
     "static/media/Tejas.jpg": "/react-website/static/media/Tejas.4a378aa06029b8457b66.jpg",
     "static/media/Technical Quiz.jpeg": "/react-website/static/media/Technical Quiz.6e1837f0a855ad09cde0.jpeg",
+    "static/media/3.jpeg": "/react-website/static/media/3.c666c0daf8b607ce147b.jpeg",
     "static/media/Musi - Matics.jpeg": "/react-website/static/media/Musi - Matics.a6319b37aa6e01bf3257.jpeg",
     "static/media/Aryav.jpg": "/react-website/static/media/Aryav.1355299431dad3bf5e09.jpg",
     "static/media/STEM.jpeg": "/react-website/static/media/STEM.616c6b077b71120a4395.jpeg",
+    "static/media/7.jpeg": "/react-website/static/media/7.23e77810844ee7b823ec.jpeg",
     "static/media/Resume Building.jpeg": "/react-website/static/media/Resume Building.5506104508e4a291be02.jpeg",
     "static/media/Sync Sound.jpeg": "/react-website/static/media/Sync Sound.0938a2b3a784935865a1.jpeg",
     "static/media/Saumya.jpg": "/react-website/static/media/Saumya.af900358a3c479ef1b7c.jpg",
@@ -24,12 +28,12 @@
     "static/media/mail.svg": "/react-website/static/media/mail.0aa307a75f121d349573ed4e9fe3b657.svg",
     "static/media/linkedin.svg": "/react-website/static/media/linkedin.52476a3e81a059d7b150cb91b5c94517.svg",
     "index.html": "/react-website/index.html",
-    "main.b629a804.css.map": "/react-website/static/css/main.b629a804.css.map",
-    "main.74ead6bc.js.map": "/react-website/static/js/main.74ead6bc.js.map",
+    "main.2d65fbd7.css.map": "/react-website/static/css/main.2d65fbd7.css.map",
+    "main.93dd9e97.js.map": "/react-website/static/js/main.93dd9e97.js.map",
     "787.02d56b45.chunk.js.map": "/react-website/static/js/787.02d56b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b629a804.css",
-    "static/js/main.74ead6bc.js"
+    "static/css/main.2d65fbd7.css",
+    "static/js/main.93dd9e97.js"
   ]
 }
