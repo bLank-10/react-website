@@ -1,14 +1,22 @@
 
 import "./event.css"
-
+import Typewriter from 'typewriter-effect';
 
 
 function Event() {
   
   return (
     <div class="EventSection">
-    <h1 align='center'>Event</h1>
-    {/* <p>Click to know more.</p> */}
+      <div className="App">
+        <Typewriter
+          options={{
+            loop: true,
+          }}
+          onInit={(typewriter) => {
+            typewriter.typeString('EVENTS').pauseFor(1000).deleteAll().start();
+          }}
+        />
+      </div>
 
     <h2 >Technical Events</h2>
 

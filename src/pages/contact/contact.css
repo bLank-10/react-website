@@ -1,12 +1,69 @@
     
 
 .FormSection {
-    margin-bottom: 20.4375em;
-  padding-inline: 1em;
-  @media (min-width: 48em) {
-    padding-inline: 2em;
-  }
-  @media (min-width: 80em) {
-    padding-inline: calc((100% - 80em) / 2 + 2.5em);
-  }
+  margin-bottom: 80.4375em;
+padding-inline: 1em;
+@media (min-width: 48em) {
+  padding-inline: 2em;
+}
+@media (min-width: 80em) {
+  padding-inline: calc((100% - 80em) / 2 + 2.5em);
+}
+}
+
+.StyledContactForm {
+width: 100%;
+}
+
+.StyledContactForm form {
+display: flex;
+align-items: flex-start;
+flex-direction: column;
+width: 100%;
+font-size: 25px;
+}
+
+.StyledContactForm form input {
+width: 50%;
+height: 35px;
+padding: 7px;
+outline: none;
+margin-left: 375px;
+border-radius: 5px;
+border: 1px solid rgb(220, 220, 220);
+}
+
+.StyledContactForm form input:focus {
+border: 2px solid rgba(0, 206, 158, 1);
+}
+
+.StyledContactForm form textarea {
+margin-left: 375px;
+max-width: 50%;
+min-width: 50%;
+width: 50%;
+max-height: 100px;
+min-height: 100px;
+padding: 7px;
+outline: none;
+border-radius: 5px;
+border: 1px solid rgb(220, 220, 220);
+}
+
+.StyledContactForm form textarea:focus {
+border: 2px solid rgba(0, 206, 158, 1);
+}
+
+.StyledContactForm form label {
+margin-top: 2rem;
+margin-left: 375px;
+}
+
+.StyledContactForm form input[type="submit"] {
+margin-top: 6rem;
+cursor: pointer;
+background: rgb(224, 80, 169);
+color: white;
+border: none;
+margin-bottom: 40.4375em;
 }

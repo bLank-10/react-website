@@ -1,6 +1,6 @@
 .EventSection {
-  margin-bottom: 20.4375em;
-  padding-inline: 1em;
+  margin-bottom: 40.4375em;
+  padding-inline: 5em;
 
   @media (min-width: 48em) {
     padding-inline: 2em;
@@ -13,8 +13,9 @@
 
 h1{
   margin: 0px;
+  color: #CC99CC;
   /* padding: 100px 0px; */
-  font-size: 5rem
+  font-size: 6rem
 }
 
 p{
@@ -27,11 +28,8 @@ h2{
 }
 
 .grid-container{
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); /* Example column setup */
-  grid-template-rows: repeat(auto-fit, minmax(300px, 1fr));
-  justify-items: center; /* Center items horizontally */
-  align-items: center; 
+  display:grid;
+  grid-template-columns:auto auto auto;
 }
 /* .grid-item{
   padding:40px;

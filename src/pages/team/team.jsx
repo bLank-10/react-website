@@ -1,4 +1,5 @@
 import "./team.css"
+import Typewriter from 'typewriter-effect';
 import React from 'react';
 import Linkedin from './linkedin.svg';
 import Mail from './mail.svg';
@@ -6,7 +7,16 @@ import Mail from './mail.svg';
 function Team() {
   return (
     <div class="TeamSection">
-      <h1 align='center'>OUR TEAM</h1>
+          <div className="App">
+        <Typewriter
+          options={{
+            loop: true,
+          }}
+          onInit={(typewriter) => {
+            typewriter.typeString('OUR TEAM').pauseFor(1000).deleteAll().start();
+          }}
+        />
+      </div>
 
 
 <div class="responsive-container-block container">

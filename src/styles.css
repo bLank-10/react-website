@@ -10,7 +10,11 @@
 
   body {
     margin: 0;
-    background-color: #0F131F;
+    background-color: black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB9Whi_geNuLY5VAQNWVo3RDERwXL0Cl71Pw&usqp=CAU");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
     color: #FFFFFF;
     font-family: 'Montserrat', sans-serif;
     -webkit-font-smoothing: antialiased;
