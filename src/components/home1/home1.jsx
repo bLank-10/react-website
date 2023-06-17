@@ -7,6 +7,8 @@ const images = [
   require('./images/2.jpeg'),
   require('./images/7.jpeg'),
   require('./images/3.jpeg'),
+  require('./images/8.jpg'),
+
 
 
 
