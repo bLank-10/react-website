@@ -1,7 +1,7 @@
 
 
 .TeamSection {
-  margin-bottom: 20.4375em;
+  padding-bottom: 2rem;
 
   
   padding-inline: 1em;
@@ -68,11 +68,15 @@ h1{
   /* padding-bottom: 10px; */
   /* padding-left: 50px; */
   background-color: LightGray;
+  margin-top: 1rem;
+  height: auto;
+  min-height: 30rem;
 }
 
 .card-container {
   width: 250px;
-  height:430px;
+  height:auto;
+ 
 
 }
 
