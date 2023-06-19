@@ -22,14 +22,11 @@ function Home3() {
         />
       </div>
 
-      <div className="wrapper" data-aos="fade-up">
+      <div className="wrapper eventMain" data-aos="fade-up">
         <div className="flip-card">
           <div className="flip-card-inner">
             <div className="flip-card-front">
-              <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg" alt="" width="400" />
-            </div>
-            <div className="flip-card-back">
-              <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg" alt="" width="400" />
+              <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg" alt="" width="350" />
             </div>
           </div>
         </div>
@@ -43,14 +40,11 @@ function Home3() {
         </div>
       </div>
 
-      <div className="wrapper" data-aos="fade-up">
+      <div className="wrapper eventMain" data-aos="fade-up">
         <div className="flip-card">
           <div className="flip-card-inner">
             <div className="flip-card-front">
-              <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg" alt="" width="400" />
-            </div>
-            <div className="flip-card-back">
-              <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg" alt="" width="400" />
+              <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg" alt="" width="350" />
             </div>
           </div>
         </div>

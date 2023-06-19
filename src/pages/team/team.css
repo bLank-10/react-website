@@ -30,10 +30,7 @@ h1{
 }
 
 .text-blk {
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
+  margin: 0px;
   line-height: 25px;
   color: black;
 }
@@ -44,10 +41,6 @@ h1{
   /* width: 100%; */
   display: flex;
   flex-wrap: wrap;
-  margin-top: 0px;
-  margin-right: 50px;
-  margin-bottom: 0px;
-  margin-left: auto;
   justify-content: space-evenly;
   /* padding-right: 20px; its working */ 
   padding-bottom: 20px;
@@ -57,22 +50,11 @@ h1{
 .team-head-text {
   line-height: 50px;
   /* width: 100%; */
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 20px;
-  margin-left: 0px;
+
 }
 
 .container {
-  /* max-width: 1380px; */
-  margin-top: 60px;
-  margin-right: auto;
-  margin-bottom: 60px;
-  margin-left: auto;
-  padding-top: 0px;
-  padding-right: 40px;
-  padding-bottom: 30px;
-  padding-left: 30px;
+ padding: 1rem;
 }
 
 .card {
@@ -91,14 +73,11 @@ h1{
 .card-container {
   width: 250px;
   height:430px;
-  margin-top: 55px;
-  margin-right: 20px;
-  margin-bottom: 55px;
-  margin-left: 10px;
+
 }
 
 .name {
-  margin-top: 20px;
+
   /* margin-right: 0px;
   margin-bottom: 5px;
   margin-left: 0px; */ 
@@ -112,9 +91,7 @@ h1{
   justify-content: space-between;
   margin-bottom: 50px;
   height:35px;
-  margin-top: 0px;
-  margin-right: 20px;
-  margin-left: 20px;
+
   /* padding:0px; */
 }
 
@@ -136,12 +113,13 @@ p{
   border: none;
 }
 
-@media (max-width: 100px) {
+@media only screen and (max-width: 600px)  {
   .card-container {
-    width: 50%;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 25px;
-    margin-left: 0px;
+    width: 96%;
+    margin: .5rem;
+    height: auto;
+  }
+  .TeamSection {
+    margin: 0px;
   }
 }

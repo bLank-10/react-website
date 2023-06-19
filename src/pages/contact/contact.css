@@ -39,8 +39,6 @@ border: 2px solid rgba(0, 206, 158, 1);
 
 .StyledContactForm form textarea {
 margin-left: 375px;
-max-width: 50%;
-min-width: 50%;
 width: 50%;
 max-height: 100px;
 min-height: 100px;
@@ -66,4 +64,21 @@ background: rgb(224, 80, 169);
 color: white;
 border: none;
 margin-bottom: 40.4375em;
+}
+@media only screen and (max-width: 600px) {
+  .StyledContactForm form{
+    padding: 1rem;
+  }
+  .StyledContactForm form label,.StyledContactForm form input, .StyledContactForm form textarea{
+    margin: 0px;
+    width: 96%;
+    margin: .5rem;
+    
+  }
+  .StyledContactForm form input[type="submit"]{
+    margin: 0rem;
+    margin-left: .5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
 }
