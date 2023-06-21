@@ -29,11 +29,12 @@ h2{
 
 .grid-container{
   display:flex;
+  grid-gap: 30px 60px;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 .grid-item{
-  padding:1rem;
+  padding:3rem;
   width: 300px;
   height: auto;
 }

@@ -21,7 +21,6 @@ import E6 from "./pages/eventpage/e6";
 import E7 from "./pages/eventpage/e7";
 import E8 from "./pages/eventpage/e8";
 import E9 from "./pages/eventpage/e9";
-
 function App() {
 
   return (

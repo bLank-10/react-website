@@ -17,15 +17,16 @@ function Navbar() {
             <Link to="/" className="home" onClick={() => { window.scroll(0, 0); }}>
                 <li>HOME</li>
             </Link>
+             <Link to="/#" className="about" onClick={() => { window.scroll(50, 600); }}>
+                <li>ABOUT US</li>
+            </Link>
             <Link to="https://www.ieee.org/membership/" className="membership">
                 <li>MEMBERSHIP</li>
             </Link>
             <Link to="/team" className="team" onClick={() => { window.scroll(0, 0); }}>
                 <li>TEAM</li>
             </Link>
-            <Link to="/#" className="about" onClick={() => { window.scroll(50, 600); }}>
-                <li>ABOUT US</li>
-            </Link>
+           
             <Link to="/event" className="event" onClick={() => { window.scroll(0, 0); }}>
                 <li>EVENT</li>
             </Link>
