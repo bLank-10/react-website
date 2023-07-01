@@ -21,7 +21,7 @@ function Team() {
 
 <div class="responsive-container-block container">
   <div class="responsive-container-block">
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Aryav.jpg')} alt="img"/>
@@ -45,7 +45,7 @@ function Team() {
  
 
 
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Daffril.jpg')} alt="img"/>
@@ -70,7 +70,7 @@ function Team() {
 
 
 
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Saumya.jpg')} alt="img"/>
@@ -105,7 +105,7 @@ function Team() {
    
 
 
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Infenda.jpg')} alt="img"/>
@@ -130,7 +130,7 @@ function Team() {
 
 
 
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Sakshi.jpg')} alt="img"/>
@@ -154,7 +154,7 @@ function Team() {
     </div>
 
 
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Sarveshaa (1).jpg')} alt="img"/>
@@ -178,7 +178,7 @@ function Team() {
     </div>
 
 
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Tacita.jpg')} alt="img"/>
@@ -203,7 +203,7 @@ function Team() {
 
 
 
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Tejas.jpg')} alt="img"/>
@@ -231,7 +231,7 @@ function Team() {
 
 
 
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Malavika.jpg')} alt="img"/>
@@ -255,7 +255,7 @@ function Team() {
     </div>
 
 
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Brett.png')} alt="img"/>
@@ -281,7 +281,7 @@ function Team() {
 
 
 
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Saurabh.jpg')} alt="img"/>
@@ -306,7 +306,7 @@ function Team() {
 
 
 
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-containers">
       <div class="card">
         <div class="team-image-wrapper">
           <img class="team-member-image" src={require('./images/Mohit.jpg')} alt="img"/>

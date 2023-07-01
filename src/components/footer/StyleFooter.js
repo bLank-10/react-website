@@ -78,7 +78,7 @@ export const HeaderFooterP = styled.h5`
   ${(props) => {
     if (props.smallHeader)
       return `
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     font-weight: 600;
     margin: 1.4em 0;`;
   }};
