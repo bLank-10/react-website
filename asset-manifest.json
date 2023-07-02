@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.2d65fbd7.css",
-    "main.js": "/react-website/static/js/main.93dd9e97.js",
+    "main.css": "/react-website/static/css/main.88843a04.css",
+    "main.js": "/react-website/static/js/main.7e9752b1.js",
     "static/js/787.02d56b45.chunk.js": "/react-website/static/js/787.02d56b45.chunk.js",
     "static/media/Tacita.jpg": "/react-website/static/media/Tacita.d0a9074558860ae0f44c.jpg",
     "static/media/Mohit.jpg": "/react-website/static/media/Mohit.76c99d2f0d7d74705d39.jpg",
@@ -14,6 +14,7 @@
     "static/media/Musi - Matics.jpeg": "/react-website/static/media/Musi - Matics.a6319b37aa6e01bf3257.jpeg",
     "static/media/Aryav.jpg": "/react-website/static/media/Aryav.1355299431dad3bf5e09.jpg",
     "static/media/STEM.jpeg": "/react-website/static/media/STEM.616c6b077b71120a4395.jpeg",
+    "static/media/8.jpg": "/react-website/static/media/8.88fec8b1269913e6e0c6.jpg",
     "static/media/7.jpeg": "/react-website/static/media/7.23e77810844ee7b823ec.jpeg",
     "static/media/Resume Building.jpeg": "/react-website/static/media/Resume Building.5506104508e4a291be02.jpeg",
     "static/media/Sync Sound.jpeg": "/react-website/static/media/Sync Sound.0938a2b3a784935865a1.jpeg",
@@ -26,14 +27,14 @@
     "static/media/Daffril.jpg": "/react-website/static/media/Daffril.0072a052632411b45b15.jpg",
     "static/media/Sarveshaa (1).jpg": "/react-website/static/media/Sarveshaa (1).65d4c7adf94a22e0d58b.jpg",
     "static/media/mail.svg": "/react-website/static/media/mail.0aa307a75f121d349573ed4e9fe3b657.svg",
-    "static/media/linkedin.svg": "/react-website/static/media/linkedin.52476a3e81a059d7b150cb91b5c94517.svg",
     "index.html": "/react-website/index.html",
-    "main.2d65fbd7.css.map": "/react-website/static/css/main.2d65fbd7.css.map",
-    "main.93dd9e97.js.map": "/react-website/static/js/main.93dd9e97.js.map",
+    "static/media/linkedin.svg": "/react-website/static/media/linkedin.52476a3e81a059d7b150cb91b5c94517.svg",
+    "main.88843a04.css.map": "/react-website/static/css/main.88843a04.css.map",
+    "main.7e9752b1.js.map": "/react-website/static/js/main.7e9752b1.js.map",
     "787.02d56b45.chunk.js.map": "/react-website/static/js/787.02d56b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d65fbd7.css",
-    "static/js/main.93dd9e97.js"
+    "static/css/main.88843a04.css",
+    "static/js/main.7e9752b1.js"
   ]
 }
